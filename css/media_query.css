@@ -1,0 +1,4930 @@
+@media only screen and (min-width:2048px) {}
+
+@media only screen and (min-width:1600px) and (max-width:2047px) {
+
+}
+
+@media only screen and (min-width:1440px) and (max-width:1599px) {
+
+	
+}
+
+@media only screen and (min-width:1246px) and (max-width:1439px) {
+
+	
+
+}
+
+
+@media only screen and (min-width:1171px) and (max-width:1245px) {
+
+   .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+	
+	
+	
+}
+@media only screen and (min-width:960px) and (max-width:1170px) {
+    .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+	#header .navMenu ul li a {
+		font-size: 14px;
+		padding: 15px 20px !important;
+	}
+
+	#header .navMenu ul {
+		padding: 00px 0 0 !important;
+	}
+	
+	.megaNav {
+		background: rgba(249,249,249,0.9);
+		padding: 0px 20px 0;
+		width: 490px;
+	}
+	
+	#header .navMenu ul li ul li {
+		margin: 0 12px 10px 0;
+		width: 233px !important;
+	}
+	
+	/******************banner start here ***************/
+	.banner {
+		height: auto;
+		padding-bottom: 0;
+	}
+	
+	.captionBox {
+		position: absolute;
+		bottom: 12%;
+		left: 0;
+	}
+	
+	p.cursor {
+	font-size: 38px;
+}
+	/******************banner End here ***************/
+	
+	/******************service start here ***************/
+	
+.services {
+	padding: 80px 0 80px 0;
+	overflow: hidden;
+}
+	
+.services .service_details {
+	padding: 50px 0 0 0;
+	overflow: hidden;
+}
+	
+.services .service_details ul li {
+	width: 33%;
+	flex: 0 0 33%;
+	margin-bottom: 2px;
+}		
+.services .service_details ul li .service_pic {
+	height: auto;
+	width: auto;
+}
+	
+	/******************service End here ***************/
+	
+	
+/******************strip start here ***************/
+.strip {
+	height: auto !important;
+}
+	
+.strip ul {
+	padding-top: 40px;
+}	
+	
+.strip ul li h2 {
+	font-size: 20px;
+}	
+/******************strip End here ***************/
+	
+	
+/***************************industry section start *****************************/	
+	
+.industry .domain ul li {
+	width: 33%;
+	flex: 0 0 33%;
+	margin-bottom: 7px;
+}
+.industry .domain ul li .domain_pic {
+	height: auto;
+	width: auto;
+}	
+	
+.industry .domain ul li .overlay h3 {
+	font-size: 15px;
+	padding-left: 0;
+}	
+	
+.industry .domain ul li .overlay h3::before {
+	left: 0;
+}	
+/***************************industry section End *****************************/		
+	
+/***************************About section start *****************************/
+.about .about_pic {
+	width: 368px;
+	height: 646px;
+	margin-right: 50px;
+	border-radius: 0 10px 10px 0;
+	overflow: hidden;
+}
+	
+	
+/***************************about section End *****************************/	
+	
+	
+/***************************Case study section start *****************************/	
+.case_study .case_study_details ul {
+	justify-content: flex-start;
+}	
+	
+.case_study .case_study_details ul li:first-child .case_study_pic {
+	width: 310px;
+	height: 322px;
+	overflow: hidden;
+}	
+	
+.case_study .case_study_details ul li:nth-child(3) {
+	margin-top: 0;
+	margin-left: 0;
+}	
+	
+.case_study .case_study_details ul li:nth-child(4) {
+	margin-top: 0;
+	margin-left: 0;
+}
+	
+.case_study .case_study_details ul li {
+	margin-right: 7px;
+	margin-bottom: 7px;
+}	
+/***************************Case study section End *****************************/	
+	
+/**********   footer section  css start **********/	
+.footer {
+    padding: 60px 0;
+}	
+.footer ul li .footer_logo {
+	width: auto;
+	height: auto;
+	overflow: hidden;
+}
+.footer ul li .card_dtls {
+	width: 347px;
+	height: 45px;
+	margin: auto;
+}	
+.footer ul li .social_sec ul {
+	padding-top: 10px;
+}	
+.footer ul li .footer_end_text p {
+    text-align: center;
+}
+.footer ul li:first-child {
+	margin-right: 44px;
+}	
+.footer ul li:last-child {
+	width: 25%;
+}	
+.footer ul li ul li:last-child {
+	width: auto;
+}
+.footer ul li {
+	width: 19%;
+}	
+.footer ul li .social_sec li {
+	width: 26px !important;
+	height: 26px !important;
+}	
+.footer ul li .social_sec li i {
+	padding: 7px;
+	font-size: 13px;
+	color: #fff;
+}	
+.footer_bottom h4 {
+	font-size: 13px;
+}	
+/**********   footer section  css End **********/	
+	
+/**********  Healthcare & Life Science start **********/		
+.captionBox {
+	bottom: 42%;
+}
+	
+/**********  Healthcare & Life Science End **********/	
+
+  /*******************************
+	start: Inner page : Contact Us
+*******************************/
+    /* ================================= start: getinTouch Section ================================= */
+    .contact_form {
+        padding: 40px;
+        padding-right: 50px;
+    }
+
+    .contact_info {
+        padding: 170px 0 0 50px;
+    }
+
+
+    .contact_form input[type=text],
+    .contact_form input[type=email],
+    .contact_form input[type=number],
+    .contact_form input[type=password] {
+        font-size: 17px;
+    }
+
+    .contact_form textarea {
+        font-size: 17px;
+    }
+
+    .contact_form input[type=submit] {
+        font-size: 17px;
+    }
+
+    .contact_info h4 {
+        font-size: 20px;
+    }
+
+    .contact_info h4 span {
+        font-size: 17px;
+    }
+
+    .contact_info h4 span::after {
+        width: 120px;
+    }
+
+    .contact_info p,
+    .contact_info a {
+        font-size: 17px;
+    }
+
+    /* ================================= end: getinTouch Section ================================= */
+    /*******************************
+	end: Inner page : Contact Us
+*******************************/		
+/***************************
+	Blog page Start
+*****************************/	
+.blog_sec .wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}	
+.blog_sec .blog_sec_left .blog_ena .blog_pic {
+    width: auto;
+    height: auto;
+}	
+.blog_sec .blog_sec_left {
+	width: auto;
+	flex: 0 0 100%;
+	margin-right: 0;
+}
+	
+.blog_sec .blog_sec_right {
+	width: 100%;
+	flex: 0 0 100%;
+}	
+/***************************
+	Blog page End
+*****************************/	
+	
+/***************************
+	policy document page start
+*****************************/
+.policy_documents ul li {
+	width: 27%;
+	flex: 0 0 27%;
+	margin-bottom: 15px;
+}
+.view_more {
+	margin-top: 2%;
+}	
+	
+/***************************
+	policy document page End
+*****************************/	
+
+	
+/***************************
+	carrer page start
+*****************************/
+.career_top {
+	padding: 80px 0;
+}
+.career_middle_two ul li {
+	width: 28%;
+	flex: 0 0 28%;
+}	
+	
+.feedback #slider li p::after{
+		display: none;
+}
+	
+.feedback #slider li p::before{
+		display: none;
+}		
+	
+/***************************
+	carrer page End
+*****************************/	
+	
+/***************************
+	carrer inner page start
+*****************************/	
+.carrer_inner {
+	padding: 80px 0;
+}	
+	
+/***************************
+	carrer inner page End
+*****************************/	
+	
+/***************************
+	case study page start
+*****************************/	
+.case_study_top_two .case_study_top_two_pic {
+	width: 489px;
+	height: 219px;
+}
+.case_study_top_three .case_study_top_three_pic {
+	width: 428px;
+	height: 429px;
+}	
+	
+.case_study_bottom {
+	padding: 80px 0;
+	overflow: hidden;
+}	
+	
+/***************************
+	case study page end
+*****************************/	
+/***************************
+	Capital Markets page start
+*****************************/	
+.inner_pagepara {
+	padding: 80px 0;
+	overflow: hidden;
+}
+	
+/***************************
+	Capital Markets page End
+*****************************/		
+	
+}
+
+@media only screen and (min-width:769px) and (max-width:959px) {
+    .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+	#header .navMenu ul li a {
+		font-size: 14px;
+		padding: 15px 20px !important;
+	}
+
+	#header .navMenu ul {
+		padding: 00px 0 0 !important;
+	}
+	
+	.megaNav {
+		background: rgba(249,249,249,0.9);
+		padding: 0px 20px 0;
+		width: 490px;
+	}
+	
+	#header .navMenu ul li ul li {
+		margin: 0 12px 10px 0;
+		width: 233px !important;
+	}
+	#header {
+	padding: 10px 0 0 !important;
+	float: right;
+}
+	/******************banner start here ***************/
+	.banner {
+		height: auto;
+		padding-bottom: 0;
+	}
+	
+	.captionBox {
+		position: absolute;
+		bottom: 12%;
+		left: 0;
+	}
+	p.cursor {
+		color: #fff;
+		font-size: 30px;
+	}
+	.banner .caption h1 {
+		font-size: 20px;
+	}
+	
+	.output {
+		height: 90px;
+	}
+	.banner .caption::before {
+		height: 90px;
+	}
+	.banner video {
+	min-width: 100%;
+	position: relative;
+	margin-top: -80px;
+	width: 100%;
+}
+/******************banner End here ***************/
+	
+/******************service start here ***************/
+	
+.services {
+	padding: 60px 0 60px 0;
+	overflow: hidden;
+}
+	
+.services .service_details {
+	padding: 50px 0 0 0;
+	overflow: hidden;
+}
+	
+.services .service_details ul li {
+	width: 33%;
+	flex: 0 0 33%;
+	margin-bottom: 2px;
+}		
+.services .service_details ul li .service_pic {
+	height: auto;
+	width: auto;
+}
+.services .service_details ul li .overlay p {
+	color: #fff;
+	width: auto;
+}	
+	/******************service End here ***************/
+	
+	
+/******************strip start here ***************/
+.strip {
+	height: auto !important;
+}
+	
+.strip ul {
+	padding-top: 30px;
+}	
+	
+.strip ul li h2 {
+	font-size: 18px;
+}	
+/******************strip End here ***************/
+	
+	
+/***************************industry section start *****************************/	
+.industry {
+	padding: 60px 0;
+	overflow: hidden;
+}	
+.industry .domain ul li {
+	width: 33%;
+	flex: 0 0 33%;
+	margin-bottom: 7px;
+}
+.industry .domain ul li .domain_pic {
+	height: auto;
+	width: auto;
+}	
+	
+.industry .domain ul li .overlay h3 {
+	font-size: 15px;
+	padding-left: 0;
+}	
+	
+.industry .domain ul li .overlay h3::before {
+	left: 0;
+}
+	
+.industry .domain ul li .overlay {
+	width: auto;
+}	
+/***************************industry section End *****************************/		
+	
+/***************************About section start *****************************/
+.about .about_pic {
+	width: 368px;
+	height: 646px;
+	margin-right: 50px;
+	border-radius: 0 10px 10px 0;
+	overflow: hidden;
+}
+.about {
+	padding: 60px 0;
+}	
+	
+.about .about_details {
+	overflow: hidden;
+	padding-top: 40px;
+}
+.about .about_details p {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}	
+/***************************about section End *****************************/	
+	
+	
+/***************************Case study section start *****************************/	
+	
+.case_study {
+	padding: 60px 0;
+	overflow: hidden;
+}	
+.case_study .case_study_details ul {
+	justify-content: flex-start;
+}	
+	
+.case_study .case_study_details ul li:first-child .case_study_pic {
+	width: 310px;
+	height: 322px;
+	overflow: hidden;
+}	
+.case_study .case_study_details ul li:nth-child(2) {
+	width: 47%;
+	flex: 0 0 57%;
+	border-radius: 5px;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	overflow: hidden;
+}	
+.case_study .case_study_details ul li:nth-child(3) {
+	margin-top: 0;
+	margin-left: 0;
+}	
+	
+.case_study .case_study_details ul li:nth-child(4) {
+	margin-top: 0;
+	margin-left: 0;
+}
+	
+.case_study .case_study_details ul li {
+	margin-right: 7px;
+	margin-bottom: 7px;
+}	
+.case_study .case_study_details ul li:first-child {
+	width: 40%;
+	flex: 0 0 41%;
+	border-radius: 5px;
+}	
+/***************************Case study section End *****************************/	
+	
+/***************************HEADING  section START *****************************/
+.heading_center {
+	font-size: 40px;
+}
+.heading_left {
+	font-size: 40px;
+}
+/***************************HEADING  section eND *****************************/	
+	
+/********** news section  css start **********/
+.news {
+	padding: 100px 0 70px 0;
+	overflow: hidden;
+}	
+	
+.news .news_details ul li {
+	width: 48%;
+	flex: 0 0 48%;
+	margin-bottom: 30px;
+}
+	
+/********** news section  css End **********/	
+	
+/**********   footer section  css start **********/	
+	
+.footer {
+    padding: 60px 0;
+}	
+	
+.footer ul {
+	display: flex;
+	flex-direction: column;
+	align-items: start;
+}	
+.footer ul li {
+	margin-bottom: 30px;
+	width: 100%;
+}	
+.footer ul li:last-child{
+	margin-bottom: 0;
+}	
+.footer ul li ul {
+	padding-top: 8px;
+}	
+.footer ul li ul li {
+	padding: 10px 0;
+	margin-bottom: 0;
+	width: 100%;
+}
+.footer ul li .social_sec ul {
+	display: flex;
+	flex-direction: row;
+	justify-content: start;
+}	
+.footer ul li .footer_end_text {
+	justify-content: flex-end;
+	padding-top: 0;
+}
+.footer ul li .footer_end_text p {
+	text-align: left;
+}		
+.footer ul li .social_sec{
+	display: flex;
+	flex-direction: row;
+	align-items: start;
+}
+.footer ul li:last-child {
+	margin-bottom: 0;
+	width: 100%;
+}	
+.footer ul li h4 {
+	font-size: 30px;
+	margin-bottom: 10px;
+}	
+/**********   footer section  css End **********/		
+
+/**********  Healthcare & Life Science start **********/	
+	
+.banner.inner img {
+	width: 1300px;
+	margin: 0 0 0 -650px;
+}	
+	
+.banner.inner .captionBox {
+	bottom: 30%;
+	left: 0;
+}
+.banner.inner .caption h2 {
+	font-size: 40px;
+	margin-left: 20px;
+}	
+.industry_inner {
+	padding: 80px 0;
+}	
+	
+.industry_inner ul {
+	display: flex;
+	flex-direction: column;
+}	
+	
+.industry_inner ul li {
+	width: 100%;
+	flex: 0 0 auto;
+	box-sizing: border-box;
+}	
+	
+.industry_inner ul li:last-child {
+	box-shadow: none;
+	width: auto;
+	flex: 0 0 auto;
+	padding: 0;
+	padding-top: 41px;
+}	
+	
+.industry_bottom {
+	padding: 60px 0;
+}	
+/**********  Healthcare & Life Science End **********/		
+	
+	
+  /*******************************
+	start: Inner page : Contact Us
+*******************************/
+    /* ================================= start: getinTouch Section ================================= */
+    .contact_form {
+        padding: 40px;
+        padding-right: 50px;
+    }
+
+    .contact_form::after {
+        height: 73%;
+        top: 15%;
+    }
+
+    .contact_info {
+        padding: 150px 0 0 50px;
+    }
+
+    .contact_form input[type=text],
+    .contact_form input[type=email],
+    .contact_form input[type=number],
+    .contact_form input[type=password] {
+        font-size: 17px;
+    }
+
+    .contact_form textarea {
+        font-size: 17px;
+    }
+
+    .contact_form input[type=submit] {
+        font-size: 17px;
+    }
+
+    .contact_info h4 {
+        font-size: 20px;
+    }
+
+    .contact_info h4 span {
+        font-size: 17px;
+    }
+
+    .contact_info h4 span::after {
+        width: 130px;
+    }
+
+    .contact_info p,
+    .contact_info a {
+        font-size: 17px;
+    }
+
+    /* ================================= end: getinTouch Section ================================= */
+    /*******************************
+	end: Inner page : Contact Us
+*******************************/	
+	
+/***************************
+	Blog page Start
+*****************************/	
+.blog_sec .wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}	
+.blog_sec .blog_sec_left .blog_ena .blog_pic {
+    width: auto;
+    height: auto;
+}	
+.blog_sec .blog_sec_left {
+	width: auto;
+	flex: 0 0 100%;
+	margin-right: 0;
+}
+	
+.blog_sec .blog_sec_right {
+	width: 100%;
+	flex: 0 0 100%;
+}	
+h3.blog_heading {
+	font-size: 30px;
+}	
+	
+.blog_sec .blog_sec_left .painx {
+	margin: -20px 0 30px 0;
+}	
+	
+/***************************
+	Blog page End
+*****************************/	
+	
+	
+/***************************
+	About us page start
+*****************************/
+.about_top {
+	padding: 80px 0;
+	background: none 
+}	
+	
+.about_top .wrapper {
+	display: flex;
+	flex-direction:column-reverse;
+	align-items:flex-start;
+}	
+
+	
+	
+.about_top .about_dtls {
+	overflow: hidden;
+	padding-top: 0;
+	margin-bottom: 40px;
+}
+.about_top .about_pic {
+	width: auto;
+	height: auto;
+	flex: 0 0 43%;
+	overflow: hidden;
+	border-radius: 5px;
+	margin-right: 0;
+}
+.about_bottom {
+	padding: 80px 0;
+	overflow: hidden;
+	background: #f3f3f3;
+}	
+	
+.about_bottom .wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items:flex-start;
+}	
+	
+.about_bottom .about_pic {
+	width: 543px;
+	height: 400px;
+	margin-top: 30px;
+	margin-left: 0;
+}	
+/***************************
+	About us page ENd
+*****************************/	
+	
+/***************************
+	policy document page start
+*****************************/
+.policy_documents ul li {
+	width: 27%;
+	flex: 0 0 27%;
+	margin-bottom: 15px;
+	height: 157px;
+}
+.view_more {
+	margin-top: 2%;
+}	
+/***************************
+	policy document page End
+*****************************/	
+	
+/***************************
+	carrer page start
+*****************************/
+.career_top {
+	padding: 60px 0;
+}
+	
+.career_middle {
+	padding: 0 0 60px 0;
+}		
+.career_middle_two ul li {
+	width: 43%;
+	flex: 0 0 43%;
+}
+
+.feedback #slider li p::after{
+		display: none;
+}
+	
+.feedback #slider li p::before{
+		display: none;
+}		
+.career_middle .search .search_details {
+	overflow: hidden;
+	width: 100%;
+	flex: 0 0 auto;
+}	
+.career_middle .search .search_details ul li:last-child {
+	width: 7%;
+	flex: 0 0 7%;
+	overflow: hidden;
+}
+	
+.career_middle_two {
+	overflow: hidden;
+	padding-bottom: 60px;
+}	
+	
+.feedback #slider li p{
+	width: auto !important;
+}	
+/***************************
+	carrer page End
+*****************************/	
+/***************************
+	carrer inner page start
+*****************************/	
+.carrer_inner {
+	padding: 80px 0;
+}	
+.carrer_inner .carrer_inner_top p strong {
+	overflow: hidden;
+	width: 77%;
+}	
+.carrer_inner .carrer_inner_form from {
+	width: 100%;
+}	
+.carrer_inner_bottom {
+	padding: 40px 0;
+}	
+.banner_buttom.cen {
+	width: 30%;
+}	
+	
+/***************************
+	carrer inner page End
+*****************************/			
+/***************************
+	case study page start
+*****************************/	
+.case_study_top {
+	padding: 60px 0 50px 0;
+	overflow: hidden;
+}	
+.case_study_top p {
+	padding-top: 20px;
+	font-size: 14px;
+	width: auto;
+}	
+.case_study_top_two .case_study_top_two_pic {
+	width: 386px;
+	height: auto;
+}
+	
+.case_study_top_two .case_study_top_two_text h3 {
+	font-size: 25px;
+}	
+.case_study_top_two .case_study_top_two_text p {
+	padding-top: 4px;
+}	
+.case_study_top_three {
+	padding: 50px 0;
+}
+.case_study_top_three .case_study_top_three_pic {
+	width: 364px;
+	height: 429px;
+}	
+.case_study_top_three .case_study_top_three_text {
+	width: 43%;
+	flex: 0 0 43%;
+	margin-right: 0;
+	margin-left: 15px;
+}	
+.case_study_top_three .case_study_top_three_text h3 {
+	font-size: 25px;
+	color: #474747;
+	padding-bottom: 7px;
+}	
+.case_study_top_three .case_study_top_three_text p {
+	padding-bottom: 10px;
+}	
+	
+.case_study_bottom {
+	padding: 60px 0;
+	overflow: hidden;
+}	
+.case_study_bottom ul li .case_study_botto_pic {
+	width: 240px;
+	height: auto;
+}	
+	
+.case_study_bottom ul li .case_study_botto_text h2 {
+	font-size: 20px;
+	padding: 5px 0;
+}	
+/***************************
+	case study page end
+*****************************/		
+
+/***************************
+	Capital Markets page start
+*****************************/	
+.inner_pagepara {
+	padding: 60px 0;
+	overflow: hidden;
+}
+	
+/***************************
+	Capital Markets page End
+*****************************/			
+	
+	
+	
+	
+}
+
+@media only screen and (min-width:641px) and (max-width:768px) {
+
+    .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+	#header .navMenu ul li a {
+		font-size: 14px;
+		padding: 15px 20px !important;
+	}
+
+	#header .navMenu ul {
+		padding: 00px 0 0 !important;
+	}
+	
+	.megaNav {
+		background: rgba(249,249,249,0.9);
+		padding: 0px 20px 0;
+		width: 490px;
+	}
+	
+	#header .navMenu ul li ul li {
+		margin: 0 12px 10px 0;
+		width: 233px !important;
+	}
+	#header {
+	padding: 10px 0 0 !important;
+	float: right;
+}
+	/******************banner start here ***************/
+	.banner {
+		height: auto;
+		padding-bottom: 0;
+	}
+	
+	.captionBox {
+		position: absolute;
+		bottom: 12%;
+		left: 0;
+	}
+	p.cursor {
+		color: #fff;
+		font-size: 26px;
+	}
+	.banner video {
+	min-width: 100%;
+	position: relative;
+	margin-top:0;
+	width: 100%;
+}
+.banner .caption h1 {
+	font-size: 20px;
+}	
+.output {
+	height: 90px;
+}
+.banner .caption::before {
+	height: 94px;
+}	
+/******************banner End here ***************/
+	
+	/******************service start here ***************/
+	
+.services {
+	padding: 60px 0 60px 0;
+	overflow: hidden;
+	background: none;
+}
+	
+.services .service_details {
+	padding: 50px 0 0 0;
+	overflow: hidden;
+}
+	
+.services .service_details ul li {
+	width: 49%;
+	flex: 0 0 49%;
+	margin-bottom: 6px;
+}	
+.services .service_details ul li .service_pic {
+	height: auto;
+	width: auto;
+}
+.services .service_details ul li .overlay p {
+	color: #fff;
+	width: auto;
+}	
+	/******************service End here ***************/
+	
+	
+/******************strip start here ***************/
+.strip {
+	height: auto !important;
+}
+	
+.strip ul {
+	justify-content: flex-start;
+	padding-top: 20px;
+}	
+.strip ul li {
+	width: 32%;
+	flex: 0 0 32%;
+}	
+.strip ul li h2 {
+	font-size: 18px;
+}	
+/******************strip End here ***************/
+	
+	
+/***************************industry section start *****************************/	
+.industry {
+	padding: 60px 0;
+	overflow: hidden;
+}	
+.industry .domain ul li {
+	width: 49%;
+	flex: 0 0 49%;
+	margin-bottom: 12px;
+}
+.industry .domain ul li .domain_pic {
+	height: auto;
+	width: auto;
+}	
+	
+.industry .domain ul li .overlay h3 {
+	font-size: 15px;
+	padding-left: 0;
+}	
+	
+.industry .domain ul li .overlay h3::before {
+	left: 0;
+}
+	
+.industry .domain ul li .overlay {
+	width: auto;
+}	
+/***************************industry section End *****************************/		
+	
+/***************************About section start *****************************/
+.about .about_pic {
+	width: auto;
+	height: auto;
+	margin-right: 50px;
+	border-radius: 0 10px 10px 0;
+	overflow: hidden;
+	float: none;
+}
+.about {
+	padding: 60px 0;
+}	
+	
+.about .about_details {
+	overflow: hidden;
+	padding-top: 40px;
+}
+.about .about_details p {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}	
+/***************************about section End *****************************/	
+	
+	
+/***************************Case study section start *****************************/	
+	
+.case_study {
+	padding: 60px 0;
+	overflow: hidden;
+	background-image: none;
+}	
+.case_study .case_study_details ul {
+	justify-content: flex-start;
+}	
+	
+.case_study .case_study_details ul li:first-child .case_study_pic {
+	width: 310px;
+	height: 322px;
+	overflow: hidden;
+}	
+.case_study .case_study_details ul li:nth-child(2) {
+	width: 43%;
+	flex: 0 0 49%;
+	border-radius: 5px;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	overflow: hidden;
+}	
+.case_study .case_study_details ul li:nth-child(3) {
+	margin-top: 0;
+	margin-left: 0;
+	width: 48%;
+	flex: 0 0 48%;
+}	
+	
+.case_study .case_study_details ul li:nth-child(4) {
+	margin-top: 0;
+	margin-left: 0;
+	width: 49%;
+	flex: 0 0 49%;
+}
+	
+.case_study .case_study_details ul li {
+	margin-right: 7px;
+	margin-bottom: 7px;
+}	
+.case_study .case_study_details ul li:first-child {
+	width: 48%;
+	flex: 0 0 48%;
+	border-radius: 5px;
+}
+	
+/***************************Case study section End *****************************/	
+	
+/***************************HEADING  section START *****************************/
+.heading_center {
+	font-size: 40px;
+}
+.heading_left {
+	font-size: 40px;
+}
+/***************************HEADING  section eND *****************************/	
+/**********   footer section  css start **********/	
+	
+.footer {
+    padding: 60px 0;
+}	
+	
+.footer ul {
+	display: flex;
+	flex-direction: column;
+	align-items: start;
+}	
+.footer ul li {
+	margin-bottom: 30px;
+	width: 100%;
+}	
+.footer ul li:last-child{
+	margin-bottom: 0;
+}	
+.footer ul li ul {
+	padding-top: 8px;
+}	
+.footer ul li ul li {
+	padding: 10px 0;
+	margin-bottom: 0;
+	width: 100%;
+}
+.footer ul li .social_sec ul {
+	display: flex;
+	flex-direction: row;
+	justify-content: start;
+}	
+.footer ul li .footer_end_text {
+	justify-content: flex-end;
+	padding-top: 0;
+}
+.footer ul li .footer_end_text p {
+	text-align: left;
+}		
+.footer ul li .social_sec{
+	display: flex;
+	flex-direction: row;
+	align-items: start;
+}
+.footer ul li:last-child {
+	margin-bottom: 0;
+	width: 100%;
+}	
+.footer ul li h4 {
+	font-size: 30px;
+	margin-bottom: 10px;
+}	
+	
+.contact_us ul li:first-child, .contact_us ul li {
+	width: 100%;
+	margin-right: 0;
+}	
+/**********   footer section  css End **********/	
+	
+/********** news section  css start **********/
+.news {
+	padding: 60px 0 30px 0;
+	overflow: hidden;
+}	
+	
+.news .news_details ul li {
+	width: 48%;
+	flex: 0 0 48%;
+	margin-bottom: 30px;
+}
+	
+.news .news_details ul li .news_details_text h3 {
+	font-size: 17px;
+}	
+	
+/********** news section  css End **********/	
+	
+
+/**********  Healthcare & Life Science start **********/	
+	
+.banner.inner img {
+	width: 1300px;
+	margin: 0 0 0 -650px;
+}	
+	
+.banner.inner .captionBox {
+	bottom: 30%;
+	left: 0;
+}
+	
+.banner.inner .caption h2 {
+	font-size: 35px;
+}	
+	
+.industry_inner {
+	padding: 60px 0;
+}	
+	
+.industry_inner ul {
+	display: flex;
+	flex-direction: column;
+}	
+	
+.industry_inner ul li {
+	width: 100%;
+	flex: 0 0 auto;
+	box-sizing: border-box;
+}	
+	
+.industry_inner ul li:last-child {
+	box-shadow: none;
+	width: auto;
+	flex: 0 0 auto;
+	padding: 0;
+	padding-top: 41px;
+}	
+	
+.industry_bottom {
+	padding: 60px 0;
+}	
+/**********  Healthcare & Life Science End **********/		
+/*******************************
+	start: Inner page : Contact Us
+*******************************/
+    /* ================================= start: getinTouch Section ================================= */
+    .getinTouch-sec {
+        padding: 50px 0;
+    }
+
+    .contact_form {
+        padding: 30px 10px;
+        padding-right: 10px;
+        width: auto;
+        float: none;
+    }
+
+    .contact_form::after {
+        display: none;
+    }
+
+    .contact_info {
+        padding: 30px 10px 20px 10px;
+    }
+
+    .contact_form input[type=text],
+    .contact_form input[type=email],
+    .contact_form input[type=number],
+    .contact_form input[type=password] {
+        font-size: 16px;
+        height: 50px;
+        padding: 0 20px;
+        margin-bottom: 15px;
+    }
+
+    .contact_form textarea {
+        font-size: 16px;
+        height: 140px;
+        margin-bottom: 20px;
+    }
+
+    .contact_form input[type=submit] {
+        font-size: 16px;
+    }
+
+    .contact_info h4 {
+        font-size: 20px;
+        margin-bottom: 35px;
+    }
+
+    .contact_info h4 span {
+        font-size: 16px;
+    }
+
+    .contact_info h4 span::after {
+        width: 100px;
+    }
+
+    .contact_info p,
+    .contact_info a {
+        font-size: 16px;
+    }
+
+    /* ================================= end: getinTouch Section ================================= */
+    /*******************************
+	end: Inner page : Contact Us
+*******************************/
+	
+/***************************
+	Blog page Start
+*****************************/	
+.blog_sec .wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}	
+.blog_sec .blog_sec_left .blog_ena .blog_pic {
+    width: auto;
+    height: auto;
+}	
+.blog_sec .blog_sec_left {
+	width: auto;
+	flex: 0 0 100%;
+	margin-right: 0;
+}
+	
+.blog_sec .blog_sec_right {
+	width: 100%;
+	flex: 0 0 100%;
+}	
+h3.blog_heading {
+	font-size: 25px;
+}	
+	
+.blog_sec .blog_sec_left .painx {
+	margin: -20px 0 30px 0;
+}	
+
+.blog_sec .blog_sec_left .blog_ena .blog_txt .blog_cmd ul li {
+	padding-right: 28px;
+}	
+	
+	
+/***************************
+	Blog page End
+*****************************/		
+/***************************
+	About us page start
+*****************************/
+.about_top {
+	padding: 60px 0;
+	background: none 
+}	
+	
+.about_top .wrapper {
+	display: flex;
+	flex-direction:column-reverse;
+	align-items:flex-start;
+}	
+
+	
+	
+.about_top .about_dtls {
+	overflow: hidden;
+	padding-top: 0;
+	margin-bottom: 40px;
+}
+.about_top .about_pic {
+	width: auto;
+	height: auto;
+	flex: 0 0 43%;
+	overflow: hidden;
+	border-radius: 5px;
+	margin-right: 0;
+}
+.about_bottom {
+	padding: 60px 0;
+	overflow: hidden;
+	background: #f3f3f3;
+}	
+	
+.about_bottom .wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items:flex-start;
+}	
+	
+.about_bottom .about_pic {
+	width: 543px;
+	height: 400px;
+	margin-top: 30px;
+	margin-left: 0;
+}	
+/***************************
+	About us page ENd
+*****************************/	
+	
+/***************************
+	privacy_policy  page srart
+*****************************/	
+.privacy_policy {
+	padding: 50px 0;
+	overflow: hidden;
+}	
+	
+	
+/***************************
+	privacy_policy  page end
+*****************************/		
+	
+/***************************
+	policy document page start
+*****************************/
+.policy_documents ul li {
+	width: 41%;
+	flex: 0 0 41%;
+	margin-bottom: 15px;
+	height: 157px;
+}
+.view_more {
+	margin-top: 2%;
+	width: 23%;
+}	
+	
+.policy_documents {
+	padding: 60px 0;
+	overflow: hidden;
+}	
+/***************************
+	policy document page End
+*****************************/		
+/***************************
+	carrer page start
+*****************************/
+.career_top {
+	padding: 60px 0;
+}
+	
+.career_middle {
+	padding: 0 0 60px 0;
+}		
+.career_middle_two ul li {
+	width: 43%;
+	flex: 0 0 43%;
+}
+
+.feedback #slider li p::after{
+		display: none;
+}
+	
+.feedback #slider li p::before{
+		display: none;
+}		
+.career_middle .search .search_details {
+	overflow: hidden;
+	width: 100%;
+	flex: 0 0 auto;
+}	
+.career_middle .search .search_details ul li:last-child {
+	width: 7%;
+	flex: 0 0 7%;
+	overflow: hidden;
+}
+	
+.career_middle_two {
+	overflow: hidden;
+	padding-bottom: 60px;
+}	
+	
+.feedback #slider li p{
+	width: auto !important;
+}	
+	
+.feedback {
+	padding: 60px 0;
+}	
+	
+.feedback #slider {
+	padding-top: 0px;
+}	
+/***************************
+	carrer page End
+*****************************/		
+
+/***************************
+	carrer inner page start
+*****************************/	
+.carrer_inner {
+	padding: 60px 0;
+}	
+.carrer_inner .carrer_inner_top p strong {
+	overflow: hidden;
+	width: 67%;
+}	
+.carrer_inner .carrer_inner_form from {
+	width: 100%;
+}	
+.carrer_inner_bottom {
+	padding: 40px 0;
+}	
+.banner_buttom.cen {
+	width: 30%;
+}	
+.carrer_inner .carrer_inner_top {
+	padding: 30px 30px;
+}
+	
+.carrer_inner .carrer_inner_form from ul li img {
+	width: 100%;
+}	
+/***************************
+	carrer inner page End
+*****************************/		
+	
+/***************************
+	case study page start
+*****************************/	
+.case_study_top {
+	padding: 60px 0 40px 0;
+	overflow: hidden;
+}	
+.case_study_top p {
+	padding-top: 20px;
+	font-size: 14px;
+	width: auto;
+}	
+.case_study_top_two .wrapper {
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+}	
+	
+.case_study_top_two .case_study_top_two_pic {
+	width: auto;
+	height: auto;
+}
+.case_study_top_two .case_study_top_two_text {
+	width: 100%;
+	flex: 0 0 100%;
+	margin-right: 0;
+	margin-bottom: 10px;
+}	
+.case_study_top_two .case_study_top_two_text h3 {
+	font-size: 25px;
+}	
+.case_study_top_two .case_study_top_two_text p {
+	padding-top: 4px;
+}	
+.case_study_top_three {
+	padding: 50px 0;
+}
+	
+.case_study_top_three .wrapper {
+	justify-content: flex-start;
+	align-items: flex-start;
+	flex-direction: column-reverse;
+}
+.case_study_top_three .case_study_top_three_pic {
+	width: 100%;
+	height: 229px;
+}
+.case_study_top_three .case_study_top_three_text {
+	width: auto;
+	flex: 0 0 100%;
+	margin-right: 0;
+	margin-left: 0;
+	margin-top: 0;
+	margin-bottom: 30px;
+}
+.case_study_top_three .case_study_top_three_text h3 {
+	font-size: 25px;
+	color: #474747;
+	padding-bottom: 7px;
+}	
+.case_study_top_three .case_study_top_three_text p {
+	padding-bottom: 10px;
+}	
+	
+.case_study_bottom {
+	padding: 60px 0;
+	overflow: hidden;
+}	
+.case_study_bottom ul li .case_study_botto_pic {
+	width: 240px;
+	height: auto;
+}	
+	
+.case_study_bottom ul li .case_study_botto_text h2 {
+	font-size: 20px;
+	padding: 5px 0;
+}
+.case_study_bottom ul li {
+	width: 48%;
+	flex: 0 0 48%;
+	overflow: hidden;
+	margin-bottom: 20px;
+}	
+.case_study_bottom ul li .case_study_botto_pic {
+	width: 298px;
+	height: auto;
+}	
+	
+/***************************
+	case study page end
+*****************************/		
+/***************************
+	Capital Markets page start
+*****************************/	
+.inner_pagepara {
+	padding: 60px 0;
+	overflow: hidden;
+}
+	
+/***************************
+	Capital Markets page End
+*****************************/	
+}
+
+@media only screen and (min-width:481px) and (max-width:640px) {
+
+    .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+	#header .navMenu ul li a {
+		font-size: 14px;
+		padding: 15px 20px !important;
+	}
+
+	#header .navMenu ul {
+		padding: 00px 0 0 !important;
+	}
+	
+	.megaNav {
+		background: rgba(249,249,249,0.9);
+		padding: 0px 20px 0;
+		width: 490px;
+	}
+	
+	#header .navMenu ul li ul li {
+		margin: 0 12px 10px 0;
+		width: 233px !important;
+	}
+	#header {
+	padding: 10px 0 0 !important;
+	float: right;
+}
+	
+.manu_header.scrolled {
+	padding-bottom: 10px;
+}	
+.banner .menuBar {
+	padding: 10px 0;
+}	
+	/******************banner start here ***************/
+	.banner {
+		height: auto;
+		padding-bottom: 0;
+	}
+	
+	.captionBox {
+		position: absolute;
+		bottom: 12%;
+		left: 0;
+	}
+	p.cursor {
+		color: #fff;
+		font-size: 18px;
+	}
+	.banner video {
+	min-width: 100%;
+	position: relative;
+	margin-top:0;
+	width: 100%;
+}
+.banner .caption h1 {
+	font-size: 16px;
+}	
+.output {
+	height: 50px;
+}
+.banner .caption::before {
+	height: 64px;
+}	
+.typed{
+	font-size: 17px;
+	padding-left: 40px;
+	
+	}
+.typed::before {
+	font-size: 18px;
+	left: 19px;
+	top: 1px;
+}
+	
+h1.cursor::after {
+  height: 12px;
+  width: 7px;
+}
+
+p.cursor::after {
+  height: 12px;
+  width: 6px;
+}	
+	
+.typed_cursor{
+	height: 10px !important;  
+}
+	
+/******************banner End here ***************/
+	
+	/******************service start here ***************/
+	
+.services {
+	padding: 40px 0 40px 0;
+	overflow: hidden;
+	background: none;
+}
+	
+.services .service_details {
+	padding: 50px 0 0 0;
+	overflow: hidden;
+}
+	
+.services .service_details ul li {
+	width: 49%;
+	flex: 0 0 49%;
+	margin-bottom: 6px;
+}	
+.services .service_details ul li .service_pic {
+	height: auto;
+	width: auto;
+}
+.services .service_details ul li .overlay p {
+	color: #fff;
+	width: auto;
+}	
+	
+.services .service_details ul li .overlay {
+	font-size: 20px;
+	padding: 15px 2px;
+	height: auto;
+}	
+.services .service_details ul li .overlay h3 {
+	font-size: 16px;
+}	
+	
+.services .service_details {
+	padding: 30px 0 0 0;
+	overflow: hidden;
+}	
+	
+		
+	/******************service End here ***************/
+	
+	
+/******************strip start here ***************/
+.strip {
+	height: auto !important;
+}
+	
+.strip ul {
+	justify-content: flex-start;
+	padding-top: 20px;
+}	
+.strip ul li {
+	width: 32%;
+	flex: 0 0 32%;
+}	
+.strip ul li h2 {
+	font-size: 18px;
+}	
+	
+.strip ul li .strip_icon {
+	height: 80px;
+	width: 80px;
+	border: 3px solid #3c97fe;
+}	
+	
+.strip ul li .strip_icon img {
+	padding: 17px;
+}
+.strip ul li::after {
+	border-right: 1px dashed #fff;
+	height: 85px;
+	width: 340px;
+}	
+/******************strip End here ***************/
+	
+	
+/***************************industry section start *****************************/	
+.industry {
+	padding: 40px 0;
+	overflow: hidden;
+}	
+	
+.industry .domain {
+	padding-top: 30px;
+}	
+.industry .domain ul li {
+	width: 49%;
+	flex: 0 0 49%;
+	margin-bottom: 12px;
+}
+.industry .domain ul li .domain_pic {
+	height: auto;
+	width: auto;
+}	
+	
+.industry .domain ul li .overlay h3 {
+	font-size: 15px;
+	padding-left: 0;
+}	
+	
+.industry .domain ul li .overlay h3::before {
+	left: 0;
+}
+	
+.industry .domain ul li .overlay {
+	width: auto;
+}	
+/***************************industry section End *****************************/		
+	
+/***************************About section start *****************************/
+.about .about_pic {
+	width: auto;
+	height: auto;
+	margin-right: 50px;
+	border-radius: 0 10px 10px 0;
+	overflow: hidden;
+	float: none;
+}
+.about {
+	padding: 60px 0;
+}	
+	
+.about .about_details {
+	overflow: hidden;
+	padding-top: 30px;
+}
+.about .about_details p {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-size: 14px;
+}	
+/***************************about section End *****************************/	
+	
+	
+/***************************Case study section start *****************************/	
+	
+.case_study {
+	padding: 60px 0;
+	overflow: hidden;
+	background-image: none;
+}	
+.case_study .case_study_details ul {
+	justify-content: flex-start;
+	flex-direction: row;
+}
+.case_study .case_study_details ul li:first-child {
+	width: 48%;
+	flex: 0 0 48%;
+	border-radius: 5px;
+}
+	
+.case_study .case_study_details ul li:first-child .case_study_pic {
+	width: auto;
+	height: auto;
+	overflow: hidden;
+}	
+
+.case_study .case_study_details ul li:nth-child(2) {
+	width: auto;
+	flex: 0 0 100%;
+	border-radius: 5px;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	overflow: hidden;
+}
+.case_study .case_study_details ul li:nth-child(3) {
+	margin-top: 0;
+	margin-left: 0;
+	width: 47%;
+	flex: 0 0 47%;
+}	
+	
+.case_study .case_study_details ul li:nth-child(4) {
+	margin-top: 0;
+	margin-left: 0;
+	width: 49%;
+	flex: 0 0 49%;
+}
+	
+.case_study .case_study_details ul li {
+	margin-right: 7px;
+	margin-bottom: 7px;
+}	
+.case_study .case_study_details ul li:first-child {
+	width: 48%;
+	flex: 0 0 48%;
+	border-radius: 5px;
+}
+	
+/***************************Case study section End *****************************/	
+	
+/***************************HEADING  section START *****************************/
+.heading_center {
+	font-size: 30px;
+}
+.heading_left {
+	font-size: 30px;
+}
+	
+.heading_center ::after {
+	content: '';
+	width: 251px;
+	height: 9px;
+	background: url("../images/border-bottom.png");
+	background-size: 60% !important;
+	background-repeat: no-repeat;
+	background-position: center center;
+}	
+	
+
+.banner_buttom {
+	padding: 8px 20px;
+	font-size: 14px;
+}	
+/***************************HEADING  section eND *****************************/	
+/********** news section  css start **********/
+.news {
+	padding: 60px 0 30px 0;
+	overflow: hidden;
+}	
+.news .news_details ul {
+	display: flex;
+	flex-direction: column;
+}	
+.news .news_details ul li {
+	width: auto;
+	flex: 0 0 auto;
+	margin-bottom: 30px;
+}
+.news .news_details ul li .news_details_pic {
+	width: auto;
+	height: 196px;
+	overflow: hidden;
+}	
+.news .news_details ul li .news_details_text h3 {
+	font-size: 17px;
+}	
+	
+/********** news section  css End **********/		
+/**********   footer section  css start **********/	
+	
+.footer {
+    padding: 40px 0;
+}	
+	
+.footer ul {
+	display: flex;
+	flex-direction: column;
+	align-items: start;
+}
+.footer ul li:first-child {
+	margin-right: auto;
+	width: 100%;
+}	
+	
+.footer ul li {
+	margin-bottom: 10px;
+	width: 100%;
+}
+.footer ul li:last-child{
+	margin-bottom: 0;
+}	
+.footer ul li ul {
+	padding-top: 8px;
+}	
+.footer ul li ul li {
+	padding: 10px 0;
+	margin-bottom: 0;
+	width: 100%;
+}
+.footer ul li .social_sec ul {
+	display: flex;
+	flex-direction: row;
+	justify-content: start;
+}	
+.footer ul li .footer_end_text {
+	justify-content: flex-end;
+	padding-top: 0;
+}
+.footer ul li .footer_end_text p {
+	text-align: left;
+}		
+.footer ul li .social_sec{
+	display: flex;
+	flex-direction: row;
+	align-items: start;
+}
+.footer ul li:last-child {
+	margin-bottom: 0;
+	width: 100%;
+}	
+.footer ul li h4 {
+	font-size: 30px;
+	margin-bottom: 10px;
+}	
+	
+.footer_bottom h4 {
+	font-size: 13px;
+}	
+/**********   footer section  css End **********/	
+	
+
+/**********  Healthcare & Life Science start **********/	
+	
+.banner.inner img {
+	width: 880px;
+	margin: 0px 0 0 -440px;
+	height: auto;
+}	
+	
+.banner.inner .captionBox {
+	bottom: 30%;
+	left: 0;
+}
+	
+.banner.inner .caption h2 {
+	font-size: 30px;
+}	
+	
+.industry_inner {
+	padding: 60px 0;
+}	
+	
+.industry_inner ul {
+	display: flex;
+	flex-direction: column;
+}	
+	
+.industry_inner ul li {
+	width: 100%;
+	flex: 0 0 auto;
+	box-sizing: border-box;
+}	
+	
+.industry_inner ul li:last-child {
+	box-shadow: none;
+	width: auto;
+	flex: 0 0 auto;
+	padding: 0;
+	padding-top: 41px;
+}	
+	
+.industry_bottom {
+	padding: 60px 0;
+}	
+	
+.banner.inner .caption::before {
+	height: 40px;
+}	
+	
+.bradecom ul li a {
+	font-size: 14px;
+}	
+	
+.heading_left.innerpage {
+	font-size: 28px;
+}
+	
+.industry_inner ul li {
+	width: 100%;
+	flex: 0 0 auto;
+	box-sizing: border-box;
+	flex-direction: column;
+}
+	
+.details ul li .health_pic {
+	width: auto;
+	height: 230px;
+	flex: 0 0 auto;
+	margin-right: 0;
+	border-radius: 5px;
+	overflow: hidden;
+}
+	
+.details ul li:last-child {
+	flex-direction: column;
+	padding-top: 20px;
+	height: auto;
+	display: block;
+}
+	
+.details ul li:last-child .health_pic {
+	margin-left: 0;
+	width: auto;
+	height: auto;
+}
+	
+	
+.industry_bottom ul {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}	
+.industry_bottom ul li {
+	width: auto;
+	flex: 0 0 auto;
+}	
+	
+.industry_bottom ul li {
+	width: 100%;
+	flex: 0 0 100%;
+	margin-bottom: 20px;
+	height: auto;
+	padding: 30px 0;
+}	
+/**********  Healthcare & Life Science End **********/		
+	
+/*******************************
+	start: Inner page : Contact Us
+*******************************/
+    /* ================================= start: getinTouch Section ================================= */
+    .getinTouch-sec {
+        padding: 50px 0;
+    }
+
+    .contact_form {
+        padding: 30px 10px;
+        padding-right: 10px;
+        width: auto;
+        float: none;
+    }
+
+    .contact_form::after {
+        display: none;
+    }
+
+    .contact_info {
+        padding: 30px 10px 20px 10px;
+    }
+
+    .contact_form input[type=text],
+    .contact_form input[type=email],
+    .contact_form input[type=number],
+    .contact_form input[type=password] {
+        font-size: 14px;
+        height: 50px;
+        padding: 0 20px;
+        margin-bottom: 15px;
+    }
+
+    .contact_form textarea {
+        font-size: 14px;
+        height: 140px;
+        margin-bottom: 20px;
+    }
+
+    .contact_form input[type=submit] {
+        font-size: 14px;
+    }
+
+    .contact_info h4 {
+        font-size: 20px;
+        margin-bottom: 35px;
+    }
+
+    .contact_info h4 span {
+        font-size: 16px;
+    }
+
+    .contact_info h4 span::after {
+        width: 100px;
+    }
+
+    .contact_info p,
+    .contact_info a {
+        font-size: 14px;
+        background-size: 15px;
+    }
+
+    /* ================================= end: getinTouch Section ================================= */
+    /*******************************
+	end: Inner page : Contact Us
+*******************************/
+	
+/***************************
+	Blog start
+*****************************/
+.blog{
+	padding: 40px 0;
+	overflow: hidden;
+	background:none !important;	
+}
+	
+.blog ul {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-top: 20px;
+}	
+.blog ul li {
+    margin: 0 21px 20px 0;
+    width: 100%;
+    flex: 0 0 100%;
+}
+.blog ul li:last-child {
+    margin: 0 20px 20px 0;
+}	
+.blog ul li .blog_inr .blog_pic {
+    width: 100%;
+    height: 280px;
+}	
+	
+.blog ul li .blog_inr .blog_text h3 {
+	font-size: 19px;
+	padding-top: 6px;
+	line-height: 25px;
+}	
+	
+/***************************
+	Blog End
+*****************************/		
+/***************************
+	About us page start
+*****************************/
+.about_top {
+	padding: 60px 0;
+	background: none 
+}	
+	
+.about_top .wrapper {
+	display: flex;
+	flex-direction:column-reverse;
+	align-items:flex-start;
+}	
+
+	
+	
+.about_top .about_dtls {
+	overflow: hidden;
+	padding-top: 0;
+	margin-bottom: 40px;
+}
+.about_top .about_pic {
+	width: auto;
+	height: auto;
+	flex: 0 0 43%;
+	overflow: hidden;
+	border-radius: 5px;
+	margin-right: 0;
+}
+.about_bottom {
+	padding: 60px 0;
+	overflow: hidden;
+	background: #f3f3f3;
+}	
+	
+.about_bottom .wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items:flex-start;
+}	
+	
+.about_bottom .about_pic {
+	width: 543px;
+	height: 400px;
+	margin-top: 30px;
+	margin-left: 0;
+}	
+	
+.about_bottom .about_pic {
+	width: auto;
+	height: auto;
+	margin-top: 30px;
+	margin-left: 0;
+}	
+/***************************
+	About us page ENd
+*****************************/
+	
+	
+/***************************
+	privacy_policy  page srart
+*****************************/	
+.privacy_policy {
+	padding: 50px 0;
+	overflow: hidden;
+}	
+	
+.privacy_policy h3 {
+	padding-top: 20px;
+	font-size: 20px;
+}	
+	
+.privacy_policy ul {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+}	
+	
+/***************************
+	privacy_policy  page end
+****************************/
+/***************************
+	policy document page start
+*****************************/
+.view_more {
+	margin-top: 2%;
+	width: 23%;
+}	
+	
+.policy_documents {
+	padding: 60px 0;
+	overflow: hidden;
+}	
+.policy_documents ul li {
+	width: 42%;
+	flex: 0 0 38%;
+	margin-bottom: 15px;
+	height: 167px;
+}	
+	
+/***************************
+	policy document page End
+*****************************/		
+/***************************
+	carrer page start
+*****************************/
+.career_top {
+	padding: 60px 0;
+}
+	
+.career_middle {
+	padding: 0 0 60px 0;
+}		
+.career_middle_two ul li {
+	width: 43%;
+	flex: 0 0 40%;
+}	
+
+.feedback #slider li p::after{
+		display: none;
+}
+	
+.feedback #slider li p::before{
+		display: none;
+}		
+.career_middle .search .search_details {
+	overflow: hidden;
+	width: 100%;
+	flex: 0 0 auto;
+}	
+.career_middle .search .search_details ul li:last-child {
+	width: 14%;
+	flex: 0 0 14%;
+	overflow: hidden;
+}
+	
+.career_middle_two {
+	overflow: hidden;
+	padding-bottom: 60px;
+}	
+	
+.feedback #slider li p{
+	width: auto !important;
+}	
+	
+.feedback {
+	padding: 60px 0;
+}	
+	
+.feedback #slider {
+	padding-top: 0px;
+}	
+	
+.career_middle .search .search_details ul li {
+	width: 37%;
+	flex: 0 0 40%;
+}	
+	
+.strip.tp p {
+	text-align: center;
+	width: auto;
+	margin: 0 auto;
+	margin-top: 30px;
+	color: #ffffff;
+}
+	
+.strip.tp {
+	height: auto !important;
+	padding: 50px 0;
+	overflow: hidden;
+}	
+/***************************
+	carrer page End
+*****************************/		
+/***************************
+	carrer inner page start
+*****************************/	
+.carrer_inner {
+	padding: 60px 0;
+}	
+.carrer_inner .carrer_inner_top p strong {
+	overflow: hidden;
+	width: auto;
+}
+.carrer_inner .carrer_inner_form from {
+	width: 100%;
+}	
+.carrer_inner_bottom {
+	padding: 40px 0;
+}	
+.banner_buttom.cen {
+	width: 30%;
+}	
+.carrer_inner .carrer_inner_top {
+	padding: 30px 30px;
+	margin-bottom: 40px;
+}
+	
+.carrer_inner .carrer_inner_form from ul li img {
+	width: 100%;
+}	
+	
+.carrer_inner .carrer_inner_top h2 {
+	padding-bottom: 10px;
+}	
+.carrer_inner .carrer_inner_top p span {
+	display: block;
+}	
+.carrer_inner .carrer_inner_form {
+	padding: 30px 30px;
+}	
+.carrer_inner .carrer_inner_form from ul {
+	display: flex;
+	flex-direction: column;
+}	
+	
+.carrer_inner .carrer_inner_form from ul li {
+	width: 100%;
+	flex: 0 0 100%;
+	margin-bottom: 10px;
+}
+	
+.carrer_inner .carrer_inner_form from input[type="submit"] {
+	width: auto;
+	padding: 14px 30px;
+	font-size: 16px;
+	margin: 10px auto;
+}	
+/***************************
+	carrer inner page End
+*****************************/		
+/***************************
+	case study page start
+*****************************/	
+.case_study_top {
+	padding: 40px 0 40px 0;
+	overflow: hidden;
+}	
+.case_study_top p {
+	padding-top: 20px;
+	font-size: 14px;
+	width: auto;
+}	
+.case_study_top_two .wrapper {
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+}	
+	
+.case_study_top_two .case_study_top_two_pic {
+	width: auto;
+	height: auto;
+}
+.case_study_top_two .case_study_top_two_text {
+	width: 100%;
+	flex: 0 0 100%;
+	margin-right: 0;
+	margin-bottom: 10px;
+}	
+.case_study_top_two .case_study_top_two_text h3 {
+	font-size: 25px;
+}	
+.case_study_top_two .case_study_top_two_text p {
+	padding-top: 4px;
+}	
+.case_study_top_three {
+	padding: 50px 0;
+}
+	
+.case_study_top_three .wrapper {
+	justify-content: flex-start;
+	align-items: flex-start;
+	flex-direction: column-reverse;
+}
+.case_study_top_three .case_study_top_three_pic {
+	width: 100%;
+	height: 229px;
+}
+.case_study_top_three .case_study_top_three_text {
+	width: auto;
+	flex: 0 0 100%;
+	margin-right: 0;
+	margin-left: 0;
+	margin-top: 0;
+	margin-bottom: 30px;
+}
+.case_study_top_three .case_study_top_three_text h3 {
+	font-size: 25px;
+	color: #474747;
+	padding-bottom: 7px;
+}	
+.case_study_top_three .case_study_top_three_text p {
+	padding-bottom: 10px;
+}	
+	
+.case_study_bottom {
+	padding: 40px 0;
+	overflow: hidden;
+}	
+.case_study_bottom ul li .case_study_botto_pic {
+	width: 240px;
+	height: auto;
+}	
+	
+.case_study_bottom ul li .case_study_botto_text h2 {
+	font-size: 20px;
+	padding: 5px 0;
+}
+.case_study_bottom ul li {
+	width: 48%;
+	flex: 0 0 48%;
+	overflow: hidden;
+	margin-bottom: 20px;
+}	
+.case_study_bottom ul li .case_study_botto_pic {
+	width: auto;
+	height: auto;
+}	
+	
+/***************************
+	case study page end
+*****************************/	
+/***************************
+	Capital Markets page start
+*****************************/	
+.inner_pagepara {
+	padding: 40px 0;
+	overflow: hidden;
+}
+/***************************
+	Capital Markets page End
+*****************************/	
+	
+}
+
+@media only screen and (min-width:321px) and (max-width:480px) {
+ 
+    .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+	#header .navMenu ul li a {
+		font-size: 14px;
+		padding: 15px 20px !important;
+	}
+
+	#header .navMenu ul {
+		padding: 00px 0 0 !important;
+	}
+	
+	.megaNav {
+		background: rgba(249,249,249,0.9);
+		padding: 0px 20px 0;
+		width: 490px;
+	}
+	
+	#header .navMenu ul li ul li {
+		margin: 0 12px 10px 0;
+		width: 233px !important;
+	}
+	#header {
+	padding: 0 0 0 !important;
+	float: right;
+}
+	
+.manu_header.scrolled {
+	padding-bottom: 10px;
+}	
+.banner .menuBar {
+	padding: 10px 0;
+}	
+.banner .logo {
+	float: left;
+	width: 62px;
+	height: 32px;
+}	
+	
+	
+	/******************banner start here ***************/
+.banner {
+  height: auto;
+  padding-bottom: 0;
+}
+	
+.captionBox {
+	position: absolute;
+	bottom: 12%;
+	left: 0;
+}
+p.cursor {
+	color: #fff;
+	font-size: 11px;
+}
+.banner video {
+	min-width: 100%;
+	position: relative;
+	margin-top: 60px;
+	width: 100%;
+}
+.banner .caption h1 {
+	font-size: 10px;
+}	
+.output {
+	height: 20px;
+}
+.banner .caption::before {
+	height: 40px;
+}	
+.typed{
+	font-size: 12px;
+	padding-left: 40px;
+	
+	}
+.typed::before {
+	font-size: 14px;
+	left: 20px;
+	top: -1px;
+}
+	
+h1.cursor::after {
+  height: 12px;
+  width: 7px;
+}
+
+p.cursor::after {
+  height: 12px;
+  width: 6px;
+}	
+	
+.typed_cursor{
+	height: 10px !important;  
+}
+	
+/******************banner End here ***************/
+	
+	/******************service start here ***************/
+	
+.services {
+	padding: 40px 0 40px 0;
+	overflow: hidden;
+	background: none;
+}
+	
+.services .service_details {
+	padding: 50px 0 0 0;
+	overflow: hidden;
+}
+.services .service_details ul {
+	display: flex;
+	flex-direction: column;
+}	
+.services .service_details ul li {
+	width: auto;
+	flex: 0 0 auto;
+	margin-bottom: 6px;
+}	
+.services .service_details ul li .service_pic {
+	height: auto;
+	width: 100%;
+}
+.services .service_details ul li .overlay p {
+	color: #fff;
+	width: auto;
+}	
+	
+.services .service_details ul li .overlay {
+	font-size: 20px;
+	padding: 15px 2px;
+	height: auto;
+}	
+.services .service_details ul li .overlay h3 {
+	font-size: 16px;
+}	
+	
+.services .service_details {
+	padding: 30px 0 0 0;
+	overflow: hidden;
+}	
+	
+
+	/******************service End here ***************/
+	
+	
+/******************strip start here ***************/
+.strip {
+	height: auto !important;
+}
+	
+.strip ul {
+	justify-content: flex-start;
+	padding-top: 20px;
+	flex-direction: column;
+}
+.strip ul li {
+	width: auto;
+	flex: 0 0 auto;
+	margin-bottom: 24px;
+}
+.strip ul li h2 {
+	font-size: 18px;
+}	
+	
+.strip ul li .strip_icon {
+	height: 80px;
+	width: 80px;
+	border: 3px solid #3c97fe;
+}	
+	
+.strip ul li .strip_icon img {
+	padding: 17px;
+}
+.strip ul li::after {
+	border-right: 1px dashed #fff;
+	height: 85px;
+	width: 340px;
+}	
+	
+.strip ul li::after {
+	border-right: 1px dashed #fff;
+	height: 85px;
+	width: 340px;
+	display: none;
+}	
+/******************strip End here ***************/
+	
+	
+/***************************industry section start *****************************/	
+.industry {
+	padding: 40px 0;
+	overflow: hidden;
+}	
+	
+.industry .domain {
+	padding-top: 30px;
+}
+.industry .domain ul {
+	display: flex;
+	flex-direction: column;
+}	
+	
+.industry .domain ul li {
+	width: auto;
+	flex: 0 0 auto;
+	margin-bottom: 12px;
+}
+.industry .domain ul li .domain_pic {
+	height: auto;
+	width: auto;
+}	
+	
+.industry .domain ul li .overlay h3 {
+	font-size: 15px;
+	padding-left: 0;
+}	
+	
+.industry .domain ul li .overlay h3::before {
+	left: 0;
+}
+	
+.industry .domain ul li .overlay {
+	width: auto;
+}	
+	
+	
+	
+/***************************industry section End *****************************/		
+	
+/***************************About section start *****************************/
+.about .about_pic {
+	width: auto;
+	height: auto;
+	margin-right: 0;
+	border-radius: 0 10px 10px 0;
+	float: none;
+}
+.about {
+	padding: 40px 0;
+}	
+	
+.about .about_details {
+	overflow: hidden;
+	padding-top: 30px;
+}
+.about .about_details p {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-size: 14px;
+}	
+/***************************about section End *****************************/	
+	
+	
+/***************************Case study section start *****************************/	
+	
+.case_study {
+	padding: 40px 0;
+	overflow: hidden;
+	background-image: none;
+}	
+.case_study .case_study_details {
+	padding-top: 30px;
+}		
+	
+.case_study .case_study_details ul {
+	justify-content: flex-start;
+	flex-direction: column;
+}
+	
+.case_study .case_study_details ul li:first-child {
+	width: auto !important;
+	flex: 0 0 auto !important;
+	border-radius: 5px;
+	margin-right: 0;
+}	
+	
+	
+.case_study .case_study_details ul li:first-child .case_study_pic {
+	width: auto;
+	height: auto;
+	overflow: hidden;
+}	
+
+.case_study .case_study_details ul li:nth-child(2) {
+	width: auto;
+	flex: 0 0 100%;
+	border-radius: 5px;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	overflow: hidden;
+	margin-right: 0;
+}
+	
+.case_study .case_study_details ul li:nth-child(2) .case_study_pic {
+	width: auto;
+	height: 320px;
+	overflow: hidden;
+}	
+	
+.case_study .case_study_details ul li:nth-child(3) {
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+	width: auto;
+	flex: 0 0 auto;
+}
+
+.case_study .case_study_details ul li:nth-child(3) .case_study_pic {
+	width: auto;
+	height: 305px;
+	overflow: hidden;
+}	
+	
+	
+.case_study .case_study_details ul li:nth-child(4) {
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+	width: auto;
+	flex: 0 0 auto;
+}
+.case_study .case_study_details ul li:nth-child(4) .case_study_pic {
+	width: auto;
+	height: 305px;
+	overflow: hidden;
+}	
+.case_study .case_study_details ul li {
+	margin-right: 7px;
+	margin-bottom: 7px;
+}	
+.case_study .case_study_details ul li:first-child {
+	width: 48%;
+	flex: 0 0 48%;
+	border-radius: 5px;
+}
+	
+
+	
+/***************************Case study section End *****************************/	
+	
+/***************************HEADING  section START *****************************/
+.heading_center {
+	font-size: 20px;
+}
+.heading_left {
+	font-size: 20px;
+}
+	
+.heading_center ::after {
+	content: '';
+	width: 251px;
+	height: 9px;
+	background: url("../images/border-bottom.png");
+	background-size: 60% !important;
+	background-repeat: no-repeat;
+	background-position: center center;
+}	
+	
+.heading_left ::after {
+	background-size: 50%;
+	background-repeat: no-repeat;
+}
+.banner_buttom {
+	padding: 8px 20px;
+	font-size: 14px;
+}	
+/***************************HEADING  section eND *****************************/	
+	/********** news section  css start **********/
+.news {
+	padding: 60px 0 30px 0;
+	overflow: hidden;
+}	
+.news .news_details ul {
+	display: flex;
+	flex-direction: column;
+}	
+.news .news_details ul li {
+	width: auto;
+	flex: 0 0 auto;
+	margin-bottom: 30px;
+}
+.news .news_details ul li .news_details_pic {
+	width: auto;
+	height: 196px;
+	overflow: hidden;
+}	
+.news .news_details ul li .news_details_text h3 {
+	font-size: 17px;
+}	
+	
+/********** news section  css End **********/	
+/**********   footer section  css start **********/	
+	
+.footer {
+    padding: 40px 0;
+}	
+	
+.footer ul {
+	display: flex;
+	flex-direction: column;
+	align-items: start;
+}
+.footer ul li:first-child {
+	margin-right: auto;
+}	
+	
+.footer ul li {
+	margin-bottom: 10px;
+	width: 100%;
+}
+.footer ul li:last-child{
+	margin-bottom: 0;
+}	
+.footer ul li ul {
+	padding-top: 8px;
+}	
+.footer ul li ul li {
+	padding: 10px 0;
+	margin-bottom: 0;
+	width: 100%;
+}
+.footer ul li .social_sec ul {
+	display: flex;
+	flex-direction: row;
+	justify-content: start;
+}	
+.footer ul li .footer_end_text {
+	justify-content: flex-end;
+	padding-top: 0;
+}
+.footer ul li .footer_end_text p {
+	text-align: left;
+}		
+.footer ul li .social_sec{
+	display: flex;
+	flex-direction: row;
+	align-items: start;
+}
+.footer ul li:last-child {
+	margin-bottom: 0;
+	width: 100%;
+}	
+.footer ul li h4 {
+	font-size: 20px;
+	margin-bottom: 0px;
+}	
+	
+.footer_bottom h4 {
+	font-size: 9px;
+}
+/**********   footer section  css End **********/		
+	
+/**********  Healthcare & Life Science start **********/	
+	
+.banner.inner img {
+	width: 880px;
+	margin: 0px 0 0 -440px;
+	height: auto;
+}	
+	
+.banner.inner .captionBox {
+	bottom: 30%;
+	left: 0;
+}
+	
+.banner.inner .caption h2 {
+	font-size: 20px;
+}	
+	
+.industry_inner {
+	padding: 60px 0;
+}	
+	
+.industry_inner ul {
+	display: flex;
+	flex-direction: column;
+}	
+	
+.industry_inner ul li {
+	width: 100%;
+	flex: 0 0 auto;
+	box-sizing: border-box;
+}	
+	
+.industry_inner ul li:last-child {
+	box-shadow: none;
+	width: auto;
+	flex: 0 0 auto;
+	padding: 0;
+	padding-top: 41px;
+}	
+	
+.industry_bottom {
+	padding: 60px 0;
+}	
+	
+.banner.inner .caption::before {
+	height: 30px;
+}
+	
+.bradecom ul li a {
+	font-size: 12px;
+}
+.heading_left.innerpage {
+	font-size: 20px;
+}	
+.industry_inner ul li {
+	width: 100%;
+	flex: 0 0 auto;
+	box-sizing: border-box;
+	flex-direction: column;
+}
+	
+.details ul li .health_pic {
+	width: auto;
+	height: 230px;
+	flex: 0 0 auto;
+	margin-right: 0;
+	border-radius: 5px;
+	overflow: hidden;
+}
+	
+.details ul li:last-child {
+	flex-direction: column;
+	padding-top: 20px;
+	height: auto;
+	display: block;
+}
+	
+.details ul li:last-child .health_pic {
+	margin-left: 0;
+	width: auto;
+	height: auto;
+}
+	
+	
+.industry_bottom ul {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}	
+.industry_bottom ul li {
+	width: auto;
+	flex: 0 0 auto;
+}	
+	
+.industry_bottom ul li {
+	width: 100%;
+	flex: 0 0 100%;
+	margin-bottom: 20px;
+	height: auto;
+	padding: 30px 0;
+}
+.industry_bottom ul li h3 {
+	font-size: 18px;
+}	
+.bradecom ul li {
+	padding-right: 14px;
+	position: relative;
+	padding-left: 5px;
+}	
+	
+	
+/**********  Healthcare & Life Science End **********/	
+/*******************************
+	start: Inner page : Contact Us
+*******************************/
+    /* ================================= start: getinTouch Section ================================= */
+    .getinTouch-sec {
+        padding: 30px 0;
+    }
+
+    .contact_form {
+        padding: 30px 10px;
+        padding-right: 10px;
+        width: auto;
+    }
+
+    .contact_form::after {
+        display: none;
+    }
+
+    .contact_info {
+        padding: 30px 0 20px 10px;
+    }
+
+    .innerBanner .captionBox {
+        width: 60%;
+    }
+
+    .contact_form input[type=text],
+    .contact_form input[type=email],
+    .contact_form input[type=number],
+    .contact_form input[type=password] {
+        font-size: 14px;
+        height: 50px;
+        padding: 0 20px;
+        margin-bottom: 10px;
+    }
+
+    .contact_form textarea {
+        font-size: 14px;
+        height: 120px;
+        margin-bottom: 20px;
+    }
+
+    .contact_form input[type=submit] {
+        font-size: 14px;
+    }
+
+    .contact_info h4 {
+        font-size: 16px;
+        margin-bottom: 35px;
+    }
+
+    .contact_info h4 span {
+        font-size: 14px;
+    }
+
+    .contact_info h4 span::after {
+        width: 100px;
+    }
+
+    .contact_info p,
+    .contact_info a {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+
+    /* ================================= end: getinTouch Section ================================= */
+ 
+    /*******************************
+end: Inner page : Contact Us
+*******************************/	
+		
+/***************************
+	Blog page Start
+*****************************/	
+	
+.blog_sec {
+	padding: 40px 0;
+	overflow: hidden;
+}	
+.blog_sec .wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}	
+.blog_sec .blog_sec_left .blog_ena .blog_pic {
+    width: auto;
+    height: auto;
+}	
+.blog_sec .blog_sec_left {
+	width: auto;
+	flex: 0 0 100%;
+	margin-right: 0;
+}
+	
+.blog_sec .blog_sec_right {
+	width: 100%;
+	flex: 0 0 100%;
+}	
+h3.blog_heading {
+	font-size: 20px;
+	padding-bottom: 20px;
+}	
+.blog_sec .blog_sec_left .painx {
+	margin: -20px 0 30px 0;
+}	
+
+.blog_sec .blog_sec_left .blog_ena .blog_txt .blog_cmd ul li {
+	padding-right: 28px;
+}	
+.blog_sec .blog_sec_left .blog_ena {
+	padding: 20px;
+}	
+	
+/***************************
+	Blog page End
+*****************************/	
+	
+/***************************
+	About us page start
+*****************************/
+.about_top {
+	padding: 40px 0;
+	background: none 
+}	
+	
+.about_top .wrapper {
+	display: flex;
+	flex-direction:column-reverse;
+	align-items:flex-start;
+}	
+	
+.about_top .about_dtls {
+	overflow: hidden;
+	padding-top: 0;
+	margin-bottom: 40px;
+}
+.about_top .about_pic {
+	width: auto;
+	height: auto;
+	flex: 0 0 43%;
+	overflow: hidden;
+	border-radius: 5px;
+	margin-right: 0;
+}
+.about_bottom {
+	padding: 40px 0;
+	overflow: hidden;
+	background: #f3f3f3;
+}
+	
+.about_bottom .wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items:flex-start;
+}	
+	
+.about_bottom .about_pic {
+	width: 543px;
+	height: 400px;
+	margin-top: 30px;
+	margin-left: 0;
+}	
+	
+.about_bottom .about_pic {
+	width: auto;
+	height: auto;
+	margin-top: 30px;
+	margin-left: 0;
+}	
+	
+.about_top .about_dtls p {
+	padding-top: 10px;
+	color: #373737;
+	font-size: 14px;
+}	
+.about_bottom .about_dtls p {
+	padding-top: 10px;
+	color: #373737;
+	font-size: 14px;
+}
+/***************************
+	About us page ENd
+*****************************/	
+	
+/***************************
+	privacy_policy  page srart
+*****************************/	
+.privacy_policy {
+	padding:20px 0;
+	overflow: hidden;
+}	
+	
+.privacy_policy h3 {
+	padding-top: 20px;
+	font-size: 20px;
+}	
+	
+.privacy_policy ul {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+}	
+	
+.privacy_policy p {
+	padding-top: 10px;
+}	
+	
+.privacy_policy h3 {
+	padding-top: 10px;
+	font-size: 16px;
+}	
+/***************************
+	privacy_policy  page end
+****************************/	
+/***************************
+	policy document page start
+*****************************/
+.view_more {
+	margin-top: 2%;
+	width: 23%;
+}	
+	
+.policy_documents {
+	padding: 60px 0;
+	overflow: hidden;
+}	
+.policy_documents ul li {
+	width: 42%;
+	flex: 0 0 38%;
+	margin-bottom: 15px;
+	height: 167px;
+}	
+	
+/***************************
+	policy document page End
+*****************************/
+	
+/***************************
+	policy document page start
+*****************************/
+.view_more {
+	margin-top: 2%;
+	width: 50%;
+}	
+	
+.policy_documents {
+	padding: 60px 0;
+	overflow: hidden;
+}	
+	
+.policy_documents ul{
+	flex-direction: column;
+	}	
+.policy_documents ul li {
+	width: 100%;
+	flex: 0 0 auto;
+	margin-bottom: 15px;
+	height: auto;
+	margin-right: 0;
+	overflow: hidden;
+	box-sizing: border-box;
+}	
+/***************************
+	policy document page End
+*****************************/		
+	
+/***************************
+	carrer page start
+*****************************/
+.career_top {
+	padding: 30px 0;
+}
+.career_top p {
+	font-size: 14px;
+	padding-top: 10px;
+}	
+	
+.career_middle .search h2 {
+	font-size: 20px;
+}	
+.career_middle .search {
+	padding: 10px 10px;
+}	
+.career_middle {
+	padding: 0 0 30px 0;
+}		
+.career_middle_two ul li {
+	width: 43%;
+	flex: 0 0 40%;
+}	
+
+.feedback #slider li p::after{
+		display: none;
+}
+	
+.feedback #slider li p::before{
+		display: none;
+}		
+.career_middle .search .search_details {
+	overflow: hidden;
+	width: 100%;
+	flex: 0 0 auto;
+}	
+.career_middle .search .search_details ul li:last-child {
+	width: 14%;
+	flex: 0 0 14%;
+	overflow: hidden;
+}
+	
+.career_middle_two {
+	overflow: hidden;
+	padding-bottom: 60px;
+}	
+	
+.feedback #slider li p{
+	width: auto !important;
+}	
+	
+.feedback {
+	padding: 60px 0;
+}	
+	
+.feedback #slider {
+	padding-top: 0px;
+}	
+	
+.career_middle .search .search_details ul li {
+	width: 37%;
+	flex: 0 0 40%;
+}	
+	
+.strip.tp p {
+	text-align: center;
+	width: auto;
+	margin: 0 auto;
+	margin-top: 30px;
+	color: #ffffff;
+}
+	
+.strip.tp {
+	height: auto !important;
+	padding: 50px 0;
+	overflow: hidden;
+}	
+	
+.career_middle .search .search_details ul li input[type="submit"] {
+	width: 37px;
+	cursor: pointer;
+	padding: 14.5px;
+	margin: 0px;
+	background: #de3515 url(../images/search1.png);
+	background-size: 30px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-radius: 5px;
+}	
+.career_middle_two ul li .career_middle_two_top ul {
+	display: flex;
+	flex-direction: row;
+}
+.career_middle_two ul {
+	flex-direction: column;
+}	
+	
+.career_middle_two ul li {
+	width: auto;
+	flex: 0 0 auto;
+}	
+/***************************
+	carrer page End
+*****************************/	
+/***************************
+	carrer inner page start
+*****************************/	
+.carrer_inner {
+	padding: 30px 0;
+}	
+.carrer_inner .carrer_inner_top p strong {
+	overflow: hidden;
+	width: auto;
+}
+.carrer_inner .carrer_inner_form from {
+	width: 100%;
+}	
+.carrer_inner_bottom {
+	padding: 40px 0;
+}	
+.banner_buttom.cen {
+	width: 60%;
+}	
+.carrer_inner .carrer_inner_top {
+	padding: 10px 10px;
+	margin-bottom: 40px;
+}
+	
+.carrer_inner .carrer_inner_form from ul li img {
+	width: 100%;
+}	
+	
+.carrer_inner .carrer_inner_top h2 {
+	padding-bottom: 0;
+	font-size: 20px;
+}
+.carrer_inner .carrer_inner_top p span {
+	display: block;
+}	
+.carrer_inner .carrer_inner_form {
+	padding: 10px 10px;
+}
+.carrer_inner .carrer_inner_form from ul {
+	display: flex;
+	flex-direction: column;
+}	
+	
+.carrer_inner .carrer_inner_form from ul li {
+	width: 100%;
+	flex: 0 0 100%;
+	margin-bottom: 10px;
+}
+	
+.carrer_inner .carrer_inner_form from input[type="submit"] {
+	width: auto;
+	padding: 14px 30px;
+	font-size: 16px;
+	margin: 10px auto;
+}	
+	
+.carrer_inner .carrer_inner_form p {
+	text-align: center;
+	padding: 8px 0;
+	font-size: 14px;
+	line-height: 26px;
+}	
+/***************************
+	carrer inner page End
+*****************************/	
+	
+/***************************
+	case study page start
+*****************************/	
+.case_study_top {
+	padding: 30px 0 20px 0;
+	overflow: hidden;
+}	
+.case_study_top p {
+	padding-top: 5px;
+	font-size: 14px;
+	width: auto;
+}	
+.case_study_top_two .wrapper {
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+}	
+	
+.case_study_top_two .case_study_top_two_pic {
+	width: auto;
+	height: auto;
+}
+.case_study_top_two .case_study_top_two_text {
+	width: 100%;
+	flex: 0 0 100%;
+	margin-right: 0;
+	margin-bottom: 10px;
+}	
+.case_study_top_two .case_study_top_two_text h3 {
+	font-size: 22px;
+}	
+.case_study_top_two .case_study_top_two_text p {
+	padding-top: 4px;
+}	
+.case_study_top_three {
+	padding: 20px 0;
+}
+	
+.case_study_top_three .wrapper {
+	justify-content: flex-start;
+	align-items: flex-start;
+	flex-direction: column-reverse;
+}
+.case_study_top_three .case_study_top_three_pic {
+	width: 100%;
+	height: 229px;
+}
+.case_study_top_three .case_study_top_three_text {
+	width: auto;
+	flex: 0 0 100%;
+	margin-right: 0;
+	margin-left: 0;
+	margin-top: 0;
+	margin-bottom: 30px;
+}
+.case_study_top_three .case_study_top_three_text h3 {
+	font-size: 16px;
+	padding-bottom: 7px;
+}
+.case_study_top_three .case_study_top_three_text p {
+	padding-bottom: 10px;
+}	
+	
+.case_study_bottom {
+	padding: 30px 0;
+	overflow: hidden;
+}	
+.case_study_bottom ul {
+	display: flex;
+	flex-direction: column;
+}	
+	
+.case_study_bottom ul li {
+	width: 100%;
+	flex: 0 0 100%;
+	overflow: hidden;
+	margin-bottom: 10px;
+}
+	
+.case_study_bottom ul li .case_study_botto_text h2 {
+	font-size: 20px;
+	padding: 5px 0;
+}
+	
+.case_study_bottom ul li .case_study_botto_pic {
+	width: auto;
+	height: auto;
+}	
+	
+/***************************
+	case study page end
+*****************************/
+/***************************
+	Capital Markets page start
+*****************************/	
+.inner_pagepara {
+	padding: 30px 0;
+	overflow: hidden;
+}
+.inner_pagepara p {
+	padding-top: 10px;
+	font-size: 14px;
+}
+	
+.inner_pagepara ul li {
+	font-size: 14px;
+}	
+/***************************
+	Capital Markets page End
+*****************************/		
+	
+	
+	
+}
+
+@media only screen and (max-width:320px) {
+		
+    .wrapper {
+        width: auto;
+        padding: 0 10px;
+    }
+	#header .navMenu ul li a {
+		font-size: 14px;
+		padding: 15px 20px !important;
+	}
+
+	#header .navMenu ul {
+		padding: 00px 0 0 !important;
+	}
+	
+	.megaNav {
+		background: rgba(249,249,249,0.9);
+		padding: 0px 20px 0;
+		width: 490px;
+	}
+	
+	#header .navMenu ul li ul li {
+		margin: 0 12px 10px 0;
+		width: 233px !important;
+	}
+	#header {
+	padding: 0 0 0 !important;
+	float: right;
+}
+	
+.manu_header.scrolled {
+	padding-bottom: 10px;
+}	
+.banner .menuBar {
+	padding: 10px 0;
+}	
+.banner .logo {
+	float: left;
+	width: 62px;
+	height: 32px;
+}	
+	
+	
+	/******************banner start here ***************/
+.banner {
+  height: auto;
+  padding-bottom: 0;
+}
+	
+.captionBox {
+	position: absolute;
+	bottom: 12%;
+	left: 0;
+}
+p.cursor {
+	color: #fff;
+	font-size: 11px;
+}
+.banner video {
+	min-width: 100%;
+	position: relative;
+	margin-top: 60px;
+	width: 100%;
+}
+.banner .caption h1 {
+	font-size: 10px;
+}	
+.output {
+	height: 20px;
+}
+.banner .caption::before {
+	height: 40px;
+}	
+.typed{
+	font-size: 12px;
+	padding-left: 40px;
+	
+	}
+.typed::before {
+	font-size: 14px;
+	left: 20px;
+	top: -1px;
+}
+	
+h1.cursor::after {
+  height: 12px;
+  width: 7px;
+}
+
+p.cursor::after {
+  height: 12px;
+  width: 6px;
+}	
+	
+.typed_cursor{
+	height: 10px !important;  
+}
+	
+/******************banner End here ***************/
+	
+	/******************service start here ***************/
+	
+.services {
+	padding: 40px 0 40px 0;
+	overflow: hidden;
+	background: none;
+}
+	
+.services .service_details {
+	padding: 50px 0 0 0;
+	overflow: hidden;
+}
+.services .service_details ul {
+	display: flex;
+	flex-direction: column;
+}	
+.services .service_details ul li {
+	width: auto;
+	flex: 0 0 auto;
+	margin-bottom: 6px;
+}	
+.services .service_details ul li .service_pic {
+	height: auto;
+	width: 100%;
+}
+.services .service_details ul li .overlay p {
+	color: #fff;
+	width: auto;
+}	
+	
+.services .service_details ul li .overlay {
+	font-size: 20px;
+	padding: 15px 2px;
+	height: auto;
+}	
+.services .service_details ul li .overlay h3 {
+	font-size: 16px;
+}	
+	
+.services .service_details {
+	padding: 30px 0 0 0;
+	overflow: hidden;
+}	
+	
+
+	/******************service End here ***************/
+	
+	
+/******************strip start here ***************/
+.strip {
+	height: auto !important;
+}
+	
+.strip ul {
+	justify-content: flex-start;
+	padding-top: 20px;
+	flex-direction: column;
+}
+.strip ul li {
+	width: auto;
+	flex: 0 0 auto;
+	margin-bottom: 24px;
+}
+.strip ul li h2 {
+	font-size: 18px;
+}	
+	
+.strip ul li .strip_icon {
+	height: 80px;
+	width: 80px;
+	border: 3px solid #3c97fe;
+}	
+	
+.strip ul li .strip_icon img {
+	padding: 17px;
+}
+.strip ul li::after {
+	border-right: 1px dashed #fff;
+	height: 85px;
+	width: 340px;
+}	
+	
+.strip ul li::after {
+	border-right: 1px dashed #fff;
+	height: 85px;
+	width: 340px;
+	display: none;
+}	
+/******************strip End here ***************/
+	
+	
+/***************************industry section start *****************************/	
+.industry {
+	padding: 40px 0;
+	overflow: hidden;
+}	
+	
+.industry .domain {
+	padding-top: 30px;
+}
+.industry .domain ul {
+	display: flex;
+	flex-direction: column;
+}	
+	
+.industry .domain ul li {
+	width: auto;
+	flex: 0 0 auto;
+	margin-bottom: 12px;
+}
+.industry .domain ul li .domain_pic {
+	height: auto;
+	width: auto;
+}	
+	
+.industry .domain ul li .overlay h3 {
+	font-size: 15px;
+	padding-left: 0;
+}	
+	
+.industry .domain ul li .overlay h3::before {
+	left: 0;
+}
+	
+.industry .domain ul li .overlay {
+	width: auto;
+}	
+	
+	
+	
+/***************************industry section End *****************************/		
+	
+/***************************About section start *****************************/
+.about .about_pic {
+	width: auto;
+	height: auto;
+	margin-right: 0;
+	border-radius: 0 10px 10px 0;
+	float: none;
+}
+.about {
+	padding: 40px 0;
+}	
+	
+.about .about_details {
+	overflow: hidden;
+	padding-top: 30px;
+}
+.about .about_details p {
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-size: 14px;
+}	
+/***************************about section End *****************************/	
+	
+	
+/***************************Case study section start *****************************/	
+	
+.case_study {
+	padding: 40px 0;
+	overflow: hidden;
+	background-image: none;
+}	
+.case_study .case_study_details {
+	padding-top: 30px;
+}		
+	
+.case_study .case_study_details ul {
+	justify-content: flex-start;
+	flex-direction: column;
+}
+	
+.case_study .case_study_details ul li:first-child {
+	width: auto !important;
+	flex: 0 0 auto !important;
+	border-radius: 5px;
+	margin-right: 0;
+}	
+	
+	
+.case_study .case_study_details ul li:first-child .case_study_pic {
+	width: auto;
+	height: auto;
+	overflow: hidden;
+}	
+
+.case_study .case_study_details ul li:nth-child(2) {
+	width: auto;
+	flex: 0 0 100%;
+	border-radius: 5px;
+	display: flex;
+	justify-content: flex-start;
+	align-items: center;
+	overflow: hidden;
+	margin-right: 0;
+}
+	
+.case_study .case_study_details ul li:nth-child(2) .case_study_pic {
+	width: auto;
+	height: 320px;
+	overflow: hidden;
+}	
+	
+.case_study .case_study_details ul li:nth-child(3) {
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+	width: auto;
+	flex: 0 0 auto;
+}
+
+.case_study .case_study_details ul li:nth-child(3) .case_study_pic {
+	width: auto;
+	height: 305px;
+	overflow: hidden;
+}	
+	
+	
+.case_study .case_study_details ul li:nth-child(4) {
+	margin-top: 0;
+	margin-left: 0;
+	margin-right: 0;
+	width: auto;
+	flex: 0 0 auto;
+}
+.case_study .case_study_details ul li:nth-child(4) .case_study_pic {
+	width: auto;
+	height: 305px;
+	overflow: hidden;
+}	
+.case_study .case_study_details ul li {
+	margin-right: 7px;
+	margin-bottom: 7px;
+}	
+.case_study .case_study_details ul li:first-child {
+	width: 48%;
+	flex: 0 0 48%;
+	border-radius: 5px;
+}
+	
+
+	
+/***************************Case study section End *****************************/	
+	
+/***************************HEADING  section START *****************************/
+.heading_center {
+	font-size: 20px;
+}
+.heading_left {
+	font-size: 20px;
+}
+	
+.heading_center ::after {
+	content: '';
+	width: 251px;
+	height: 9px;
+	background: url("../images/border-bottom.png");
+	background-size: 60% !important;
+	background-repeat: no-repeat;
+	background-position: center center;
+}	
+	
+.heading_left ::after {
+	background-size: 50%;
+	background-repeat: no-repeat;
+}
+.banner_buttom {
+	padding: 8px 20px;
+	font-size: 14px;
+}	
+/***************************HEADING  section eND *****************************/	
+	/********** news section  css start **********/
+.news {
+	padding: 60px 0 30px 0;
+	overflow: hidden;
+}	
+.news .news_details ul {
+	display: flex;
+	flex-direction: column;
+}	
+.news .news_details ul li {
+	width: auto;
+	flex: 0 0 auto;
+	margin-bottom: 30px;
+}
+.news .news_details ul li .news_details_pic {
+	width: auto;
+	height: 196px;
+	overflow: hidden;
+}	
+.news .news_details ul li .news_details_text h3 {
+	font-size: 17px;
+}	
+	
+/********** news section  css End **********/	
+/**********   footer section  css start **********/	
+	
+.footer {
+    padding: 40px 0;
+}	
+	
+.footer ul {
+	display: flex;
+	flex-direction: column;
+	align-items: start;
+}
+.footer ul li:first-child {
+	margin-right: auto;
+}	
+	
+.footer ul li {
+	margin-bottom: 10px;
+	width: 100%;
+}
+.footer ul li:last-child{
+	margin-bottom: 0;
+}	
+.footer ul li ul {
+	padding-top: 8px;
+}	
+.footer ul li ul li {
+	padding: 10px 0;
+	margin-bottom: 0;
+	width: 100%;
+}
+.footer ul li .social_sec ul {
+	display: flex;
+	flex-direction: row;
+	justify-content: start;
+}	
+.footer ul li .footer_end_text {
+	justify-content: flex-end;
+	padding-top: 0;
+}
+.footer ul li .footer_end_text p {
+	text-align: left;
+}		
+.footer ul li .social_sec{
+	display: flex;
+	flex-direction: row;
+	align-items: start;
+}
+.footer ul li:last-child {
+	margin-bottom: 0;
+	width: 100%;
+}	
+.footer ul li h4 {
+	font-size: 20px;
+	margin-bottom: 0px;
+}	
+	
+.footer_bottom h4 {
+	font-size: 9px;
+}
+/**********   footer section  css End **********/
+/**********  Healthcare & Life Science start **********/	
+	
+.banner.inner img {
+	width: 880px;
+	margin: 0px 0 0 -440px;
+	height: auto;
+}	
+	
+.banner.inner .captionBox {
+	bottom: 30%;
+	left: 0;
+}
+	
+.banner.inner .caption h2 {
+	font-size: 20px;
+}	
+	
+.industry_inner {
+	padding: 60px 0;
+}	
+	
+.industry_inner ul {
+	display: flex;
+	flex-direction: column;
+}	
+	
+.industry_inner ul li {
+	width: 100%;
+	flex: 0 0 auto;
+	box-sizing: border-box;
+}	
+	
+.industry_inner ul li:last-child {
+	box-shadow: none;
+	width: auto;
+	flex: 0 0 auto;
+	padding: 0;
+	padding-top: 41px;
+}	
+	
+.industry_bottom {
+	padding: 60px 0;
+}	
+	
+.banner.inner .caption::before {
+	height: 30px;
+}
+	
+.bradecom ul li a {
+	font-size: 12px;
+}
+.heading_left.innerpage {
+	font-size: 20px;
+}	
+.industry_inner ul li {
+	width: 100%;
+	flex: 0 0 auto;
+	box-sizing: border-box;
+	flex-direction: column;
+}
+	
+.details ul li .health_pic {
+	width: auto;
+	height: 230px;
+	flex: 0 0 auto;
+	margin-right: 0;
+	border-radius: 5px;
+	overflow: hidden;
+}
+	
+.details ul li:last-child {
+	flex-direction: column;
+	padding-top: 20px;
+	height: auto;
+	display: block;
+}
+	
+.details ul li:last-child .health_pic {
+	margin-left: 0;
+	width: auto;
+	height: auto;
+}
+	
+	
+.industry_bottom ul {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}	
+.industry_bottom ul li {
+	width: auto;
+	flex: 0 0 auto;
+}	
+	
+.industry_bottom ul li {
+	width: 100%;
+	flex: 0 0 100%;
+	margin-bottom: 20px;
+	height: auto;
+	padding: 30px 0;
+}
+.industry_bottom ul li h3 {
+	font-size: 18px;
+}	
+	
+.bradecom ul li {
+	padding-right: 14px;
+	position: relative;
+	padding-left: 5px;
+}	
+	
+	
+/**********  Healthcare & Life Science End **********/	
+	
+/*******************************
+	start: Inner page : Contact Us
+*******************************/
+    /* ================================= start: getinTouch Section ================================= */
+    .getinTouch-sec {
+        padding: 30px 0;
+    }
+
+    .contact_form {
+        padding: 30px 10px;
+        padding-right: 10px;
+        width: auto;
+    }
+
+    .contact_form::after {
+        display: none;
+    }
+
+    .contact_info {
+        padding: 30px 0 20px 10px;
+    }
+
+    .innerBanner .captionBox {
+        width: 60%;
+    }
+
+    .contact_form input[type=text],
+    .contact_form input[type=email],
+    .contact_form input[type=number],
+    .contact_form input[type=password] {
+        font-size: 14px;
+        height: 50px;
+        padding: 0 20px;
+        margin-bottom: 10px;
+    }
+
+    .contact_form textarea {
+        font-size: 14px;
+        height: 120px;
+        margin-bottom: 20px;
+    }
+
+    .contact_form input[type=submit] {
+        font-size: 14px;
+    }
+
+    .contact_info h4 {
+        font-size: 16px;
+        margin-bottom: 35px;
+    }
+
+    .contact_info h4 span {
+        font-size: 14px;
+    }
+
+    .contact_info h4 span::after {
+        width: 100px;
+    }
+
+    .contact_info p,
+    .contact_info a {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+
+    /* ================================= end: getinTouch Section ================================= */
+    /* ================================= end: map Section ================================= */
+    .map iframe {
+        height: 250px;
+    }
+
+    /* ================================= end: map Section ================================= */
+    /*******************************
+end: Inner page : Contact Us
+*******************************/	
+	
+	
+/***************************
+	Blog page Start
+*****************************/	
+	
+.blog_sec {
+	padding: 40px 0;
+	overflow: hidden;
+}	
+.blog_sec .wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+}	
+.blog_sec .blog_sec_left .blog_ena .blog_pic {
+    width: auto;
+    height: auto;
+}	
+.blog_sec .blog_sec_left {
+	width: auto;
+	flex: 0 0 100%;
+	margin-right: 0;
+}
+	
+.blog_sec .blog_sec_right {
+	width: 100%;
+	flex: 0 0 100%;
+}	
+h3.blog_heading {
+	font-size: 20px;
+	padding-bottom: 20px;
+}	
+.blog_sec .blog_sec_left .painx {
+	margin: -20px 0 30px 0;
+}	
+
+.blog_sec .blog_sec_left .blog_ena .blog_txt .blog_cmd ul li {
+	padding-right: 28px;
+}	
+.blog_sec .blog_sec_left .blog_ena {
+	padding: 20px;
+}	
+	
+/***************************
+	Blog page End
+*****************************/		
+	
+/***************************
+	About us page start
+*****************************/
+.about_top {
+	padding: 40px 0;
+	background: none 
+}	
+	
+.about_top .wrapper {
+	display: flex;
+	flex-direction:column-reverse;
+	align-items:flex-start;
+}	
+	
+.about_top .about_dtls {
+	overflow: hidden;
+	padding-top: 0;
+	margin-bottom: 40px;
+}
+.about_top .about_pic {
+	width: auto;
+	height: auto;
+	flex: 0 0 43%;
+	overflow: hidden;
+	border-radius: 5px;
+	margin-right: 0;
+}
+.about_bottom {
+	padding: 40px 0;
+	overflow: hidden;
+	background: #f3f3f3;
+}
+	
+.about_bottom .wrapper {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	align-items:flex-start;
+}	
+	
+.about_bottom .about_pic {
+	width: 543px;
+	height: 400px;
+	margin-top: 30px;
+	margin-left: 0;
+}	
+	
+.about_bottom .about_pic {
+	width: auto;
+	height: auto;
+	margin-top: 30px;
+	margin-left: 0;
+}	
+	
+.about_top .about_dtls p {
+	padding-top: 10px;
+	color: #373737;
+	font-size: 14px;
+}	
+.about_bottom .about_dtls p {
+	padding-top: 10px;
+	color: #373737;
+	font-size: 14px;
+}
+/***************************
+	About us page ENd
+*****************************/		
+	
+/***************************
+	privacy_policy  page srart
+*****************************/	
+.privacy_policy {
+	padding: 50px 0;
+	overflow: hidden;
+}	
+	
+.privacy_policy h3 {
+	padding-top: 20px;
+	font-size: 20px;
+}	
+	
+.privacy_policy ul {
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+}	
+	
+.privacy_policy p {
+	padding-top: 10px;
+}	
+	
+.privacy_policy h3 {
+	padding-top: 10px;
+	font-size: 16px;
+}	
+/***************************
+	privacy_policy  page end
+****************************/
+	
+/***************************
+	policy document page start
+*****************************/
+.view_more {
+	margin-top: 2%;
+	width: 23%;
+}	
+	
+.policy_documents {
+	padding: 60px 0;
+	overflow: hidden;
+}	
+	
+.policy_documents ul{
+	flex-direction: column;
+	}	
+.policy_documents ul li {
+	width: auto;
+	flex: 0 0 auto;
+	margin-bottom: 15px;
+	height: auto;
+	margin-right: 0;
+}	
+/***************************
+	policy document page End
+*****************************/	
+	
+/***************************
+	policy document page start
+*****************************/
+.view_more {
+	margin-top: 2%;
+	width: 50%;
+}	
+	
+.policy_documents {
+	padding: 60px 0;
+	overflow: hidden;
+}	
+	
+.policy_documents ul{
+	flex-direction: column;
+	}	
+.policy_documents ul li {
+	width: 100%;
+	flex: 0 0 auto;
+	margin-bottom: 15px;
+	height: auto;
+	margin-right: 0;
+	overflow: hidden;
+	box-sizing: border-box;
+}	
+/***************************
+	policy document page End
+*****************************/		
+/***************************
+	carrer page start
+*****************************/
+.career_top {
+	padding: 30px 0;
+}
+.career_top p {
+	font-size: 14px;
+	padding-top: 10px;
+}	
+	
+.career_middle .search h2 {
+	font-size: 20px;
+}	
+.career_middle .search {
+	padding: 10px 10px;
+}	
+.career_middle {
+	padding: 0 0 30px 0;
+}		
+.career_middle_two ul li {
+	width: 43%;
+	flex: 0 0 40%;
+}	
+
+.feedback #slider li p::after{
+		display: none;
+}
+	
+.feedback #slider li p::before{
+		display: none;
+}		
+.career_middle .search .search_details {
+	overflow: hidden;
+	width: 100%;
+	flex: 0 0 auto;
+}	
+.career_middle .search .search_details ul li:last-child {
+	width: 14%;
+	flex: 0 0 14%;
+	overflow: hidden;
+}
+	
+.career_middle_two {
+	overflow: hidden;
+	padding-bottom: 60px;
+}	
+	
+.feedback #slider li p{
+	width: auto !important;
+}	
+	
+.feedback {
+	padding: 60px 0;
+}	
+	
+.feedback #slider {
+	padding-top: 0px;
+}	
+	
+.career_middle .search .search_details ul li {
+	width: 37%;
+	flex: 0 0 40%;
+}	
+	
+.strip.tp p {
+	text-align: center;
+	width: auto;
+	margin: 0 auto;
+	margin-top: 30px;
+	color: #ffffff;
+}
+	
+.strip.tp {
+	height: auto !important;
+	padding: 50px 0;
+	overflow: hidden;
+}	
+	
+.career_middle .search .search_details ul li input[type="submit"] {
+	width: 37px;
+	cursor: pointer;
+	padding: 14.5px;
+	margin: 0px;
+	background: #de3515 url(../images/search1.png);
+	background-size: 30px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	border-radius: 5px;
+}	
+.career_middle_two ul li .career_middle_two_top ul {
+	display: flex;
+	flex-direction: row;
+}
+.career_middle_two ul {
+	flex-direction: column;
+}	
+	
+.career_middle_two ul li {
+	width: auto;
+	flex: 0 0 auto;
+}	
+/***************************
+	carrer page End
+*****************************/		
+	
+/***************************
+	carrer inner page start
+*****************************/	
+.carrer_inner {
+	padding: 30px 0;
+}	
+.carrer_inner .carrer_inner_top p strong {
+	overflow: hidden;
+	width: auto;
+}
+.carrer_inner .carrer_inner_form from {
+	width: 100%;
+}	
+.carrer_inner_bottom {
+	padding: 40px 0;
+}	
+.banner_buttom.cen {
+	width: 60%;
+}	
+.carrer_inner .carrer_inner_top {
+	padding: 10px 10px;
+	margin-bottom: 40px;
+}
+	
+.carrer_inner .carrer_inner_form from ul li img {
+	width: 100%;
+}	
+	
+.carrer_inner .carrer_inner_top h2 {
+	padding-bottom: 0;
+	font-size: 20px;
+}
+.carrer_inner .carrer_inner_top p span {
+	display: block;
+}	
+.carrer_inner .carrer_inner_form {
+	padding: 10px 10px;
+}
+.carrer_inner .carrer_inner_form from ul {
+	display: flex;
+	flex-direction: column;
+}	
+	
+.carrer_inner .carrer_inner_form from ul li {
+	width: 100%;
+	flex: 0 0 100%;
+	margin-bottom: 10px;
+}
+	
+.carrer_inner .carrer_inner_form from input[type="submit"] {
+	width: auto;
+	padding: 14px 30px;
+	font-size: 16px;
+	margin: 10px auto;
+}	
+	
+.carrer_inner .carrer_inner_form p {
+	text-align: center;
+	padding: 8px 0;
+	font-size: 14px;
+	line-height: 26px;
+}	
+/***************************
+	carrer inner page End
+*****************************/	
+	
+/***************************
+	case study page start
+*****************************/	
+.case_study_top {
+	padding: 30px 0 20px 0;
+	overflow: hidden;
+}	
+.case_study_top p {
+	padding-top: 5px;
+	font-size: 14px;
+	width: auto;
+}	
+.case_study_top_two .wrapper {
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+}	
+	
+.case_study_top_two .case_study_top_two_pic {
+	width: auto;
+	height: auto;
+}
+.case_study_top_two .case_study_top_two_text {
+	width: 100%;
+	flex: 0 0 100%;
+	margin-right: 0;
+	margin-bottom: 10px;
+}	
+.case_study_top_two .case_study_top_two_text h3 {
+	font-size: 22px;
+}	
+.case_study_top_two .case_study_top_two_text p {
+	padding-top: 4px;
+}	
+.case_study_top_three {
+	padding: 20px 0;
+}
+	
+.case_study_top_three .wrapper {
+	justify-content: flex-start;
+	align-items: flex-start;
+	flex-direction: column-reverse;
+}
+.case_study_top_three .case_study_top_three_pic {
+	width: 100%;
+	height: 229px;
+}
+.case_study_top_three .case_study_top_three_text {
+	width: auto;
+	flex: 0 0 100%;
+	margin-right: 0;
+	margin-left: 0;
+	margin-top: 0;
+	margin-bottom: 30px;
+}
+.case_study_top_three .case_study_top_three_text h3 {
+	font-size: 16px;
+	padding-bottom: 7px;
+}
+.case_study_top_three .case_study_top_three_text p {
+	padding-bottom: 10px;
+}	
+	
+.case_study_bottom {
+	padding: 30px 0;
+	overflow: hidden;
+}	
+.case_study_bottom ul {
+	display: flex;
+	flex-direction: column;
+}	
+	
+.case_study_bottom ul li {
+	width: 100%;
+	flex: 0 0 100%;
+	overflow: hidden;
+	margin-bottom: 10px;
+}
+	
+.case_study_bottom ul li .case_study_botto_text h2 {
+	font-size: 20px;
+	padding: 5px 0;
+}
+	
+.case_study_bottom ul li .case_study_botto_pic {
+	width: auto;
+	height: auto;
+}	
+	
+/***************************
+	case study page end
+*****************************/
+	
+/***************************
+	Capital Markets page start
+*****************************/	
+.inner_pagepara {
+	padding: 30px 0;
+	overflow: hidden;
+}
+.inner_pagepara p {
+	padding-top: 10px;
+	font-size: 14px;
+}
+	
+.inner_pagepara ul li {
+	font-size: 14px;
+}	
+/***************************
+	Capital Markets page End
+*****************************/		
+		
+		
+}
